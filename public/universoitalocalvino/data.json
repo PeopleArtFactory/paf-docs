@@ -1,0 +1,2791 @@
+{
+	"id": "aK7YYx2jxZVy6ob2lUYf",
+	"alias": "universoitalocalvino",
+	"name": "Italo Calvino más allá de las letras.",
+	"synopsis": "La exposición virtual «Universo Italo Calvino, más allá de las letras» busca resaltar la figura y el legado de Italo Calvino con motivo del centenario de su nacimiento.",
+	"description": "<p style=\"padding: 0px; margin-bottom: 10px; box-sizing: border-box; color: rgb(94, 94, 94); font-family: Poppins, Helvetica, Arial, Verdana, sans-serif; font-size: 16px; letter-spacing: normal;\">La exposición virtual&nbsp;<span style=\"padding: 0px; margin: 0px; font-weight: 700; box-sizing: border-box;\">«Universo Italo Calvino, más allá de las letras»</span>&nbsp;busca resaltar la figura y el legado de Italo Calvino, cuya obra se caracteriza por la imaginación, la ironía y la diversidad de géneros y estilos. Esta muestra tiene como principal objetivo rendir tributo al escritor italiano Italo Calvino, considerado uno de los mayores intelectuales del siglo XX.&nbsp;</p><p style=\"padding: 0px; margin-bottom: 10px; box-sizing: border-box; color: rgb(94, 94, 94); font-family: Poppins, Helvetica, Arial, Verdana, sans-serif; font-size: 16px; letter-spacing: normal;\">Mediante una convocatoria abierta,&nbsp;<a href=\"https://www.culturalab.es/\" style=\"padding: 0px; margin: 0px; text-decoration-line: none; box-sizing: border-box; box-shadow: none;\">CulturaLAB</a>&nbsp;ha recopilado obras de artistas plásticos, que han inspirado su trabajo en las creaciones literarias de Italo Calvino, dejando su huella alrededor de todo el mundo. A este llamamiento se han presentado más de 25 artistas con 37 obras en total. A este generoso número, hay que sumar 10 creadores, que gracias a la colaboración de <i>Universo Italo Calvino</i> con la editorial Yiling Press, la editorial que ostenta los derechos de autor de Italo Calvino en China, se han sumado a esta exposición haciéndola más internacional si cabe. Yilin Press, en su celebración del centenario del nacimiento del escritor italiano, ha organizado un concurso artístico y las obras que resultaron ganadoras han sido expuestas en esta galería.&nbsp;</p><p style=\"padding: 0px; margin-bottom: 10px; box-sizing: border-box; color: rgb(94, 94, 94); font-family: Poppins, Helvetica, Arial, Verdana, sans-serif; font-size: 16px; letter-spacing: normal;\">Entendemos la importancia de las obras de arte que utilizan la plástica como medio para explorar las ideas y conceptos que Italo Calvino plasmó en sus libros, y que muestran el potencial creativo del arte. Buscamos una manera innovadora de poner en valor la literatura y las letras de un escritor universal, utilizando un medio digital para promover el impulso a los artistas plásticos y la accesibilidad a sus obras.</p><p style=\"padding: 0px; margin-bottom: 10px; box-sizing: border-box; color: rgb(94, 94, 94); font-family: Poppins, Helvetica, Arial, Verdana, sans-serif; font-size: 16px; letter-spacing: normal;\">Esta muestra on line se celebra dentro del homenaje&nbsp;<a href=\"https://universocalvinosevilla.wordpress.com/\" style=\"padding: 0px; margin: 0px; text-decoration-line: none; box-sizing: border-box; box-shadow: none;\"><span style=\"padding: 0px; margin: 0px; font-weight: 700; box-sizing: border-box;\"><em style=\"padding: 0px; margin: 0px; box-sizing: border-box;\">Universo Italo Calvino</em></span></a>&nbsp;para conmemorar en la ciudad de Sevilla (España) el primer centenario del nacimiento del escritor. Un evento que destaca la figura de Italo Calvino valorando su contribución a la literatura y su influencia en la cultura universal. Este tributo tiene el propósito de crear un testimonio de la influencia duradera de su obra literaria, más allá de las fronteras de los países en los que trabajó.&nbsp;&nbsp;<a href=\"https://universocalvinosevilla.wordpress.com/\" style=\"padding: 0px; margin: 0px; text-decoration-line: none; box-sizing: border-box; box-shadow: none;\">https://universocalvinosevilla.wordpress.com/</a></p><p style=\"padding: 0px; margin-bottom: 10px; box-sizing: border-box; color: rgb(94, 94, 94); font-family: Poppins, Helvetica, Arial, Verdana, sans-serif; font-size: 16px; letter-spacing: normal;\"><a href=\"https://culturalab.es/\" style=\"padding: 0px; margin: 0px; text-decoration-line: none; box-sizing: border-box; box-shadow: none;\">CulturaLAB</a>, entidad organizadora, es especialista en gestión cultural y digitalización del patrimonio. Crea recursos, desarrolla productos y gestiona proyectos que generan oportunidades de crecimiento para el arraigo en el territorio, transmitiendo el legado cultural a las nuevas generaciones. Su experiencia propia y la compartida con su red de colaboradores, garantizan y avalan la calidad de cada proyecto y la contribución al bien común.</p><p style=\"padding: 0px; margin-bottom: 10px; box-sizing: border-box; color: rgb(94, 94, 94); font-family: Poppins, Helvetica, Arial, Verdana, sans-serif; font-size: 16px; letter-spacing: normal;\"><b>Del</b>15 de octubre al 14 de enero</p><p style=\"padding: 0px; margin-bottom: 10px; box-sizing: border-box; color: rgb(94, 94, 94); font-family: Poppins, Helvetica, Arial, Verdana, sans-serif; font-size: 16px; letter-spacing: normal;\">Gracias a todos los artistas que se han presentado a la convocatoria y a los invitados, por hacer este sueño realidad.</p>",
+	"dateCreated": "2023-10-08T11:02:49.439Z",
+	"dateUpdated": "2023-11-07T10:31:45.434Z",
+	"galleryTags": [],
+	"links": [],
+	"room": {
+		"ceiling": {
+			"color": "#D0D0D0"
+		},
+		"floor": {
+			"color": "#A2A09A"
+		},
+		"lights": {
+			"ambientLight": {
+				"color": "#ffffff",
+				"intensity": 1
+			},
+			"spotLights": [
+				{
+					"color": "#ffffff",
+					"intensity": 5,
+					"distance": 500,
+					"angle": 0.65,
+					"penumbra": 0.3,
+					"decay": 0.15
+				}
+			]
+		},
+		"walls": [
+			{
+				"position": [0, 0, 0],
+				"size": [741, 250, 0.1],
+				"angle": 0,
+				"color": "#000000",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "847aecf5-77d4-4a52-ac4c-982caf4f402e",
+						"position": [677, 189, 0.5],
+						"size": [42, 35, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [677, 200, -10]
+						}
+					},
+					{
+						"resourceId": "5e5c262e-685a-49d8-aeb9-d190addd9ed1",
+						"position": [242, 55, 0.5],
+						"size": [200, 140, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [242, 200, -10]
+						}
+					},
+					{
+						"resourceId": "35226342-2aa4-4a35-aac2-e6a1145c6c9d",
+						"position": [483, 55, 0.5],
+						"size": [200, 140, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [483, 200, -10]
+						}
+					},
+					{
+						"resourceId": "ac074ea7-65fc-48d2-bb53-6b23906ab77e",
+						"position": [57, 48, 0.5],
+						"size": [140, 200, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [57, 200, -10]
+						}
+					},
+					{
+						"resourceId": "b9773aab-aa41-4875-88a7-a7ab55c1ab0e",
+						"position": [590, 175, 0.5],
+						"size": [100, 75, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [590, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [741, 0, 0],
+				"size": [150, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#f2f0e1",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "a2f3cd44-4050-4cc8-90ab-ccdb4fabd415",
+						"position": [5, 25, 0.5],
+						"size": [140, 200, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [5, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [741, 0, 150],
+				"size": [300, 250, 0.1],
+				"angle": 0,
+				"color": "#f2f0e1",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "06a78c1c-41ae-42c3-8907-54f2bcaa558b",
+						"position": [88, 50, 2],
+						"size": [124, 150, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [88, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1041, 0, 150],
+				"size": [300, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#f2f0e1",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "acd996cd-9f4a-4fe4-b69e-480179062618",
+						"position": [75, 68, 2],
+						"size": [150, 114, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [75, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1041, 0, 450],
+				"size": [300, 250, 0.1],
+				"angle": 0,
+				"color": "#f2f0e1",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "65797f26-77a4-423f-8592-6a8699928fd0",
+						"position": [75, 75, 2],
+						"size": [150, 99, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [75, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1341, 0, 450],
+				"size": [300, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#f2f0e1",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "9d5e594d-5f21-4245-9cba-006bb75bf511",
+						"position": [75, 73, 2],
+						"size": [150, 103, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [75, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1341, 0, 750],
+				"size": [600, 250, 0.1],
+				"angle": 0,
+				"color": "#f2f0e1",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "ff05403d-7d1c-4709-883f-ad2db121b91a",
+						"position": [83, 76, 2],
+						"size": [200, 97, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [83, 200, -10]
+						}
+					},
+					{
+						"resourceId": "0cae1568-0d00-4303-aa5b-32b11512288d",
+						"position": [367, 70, 2],
+						"size": [150, 109, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [367, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1941, 0, 750],
+				"size": [300, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#f2f0e1",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "0195dd1b-128b-45f0-8455-9bf1b5f7caa4",
+						"position": [97, 50, 2],
+						"size": [106, 150, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [97, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1941, 0, 1050],
+				"size": [150, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#f2e3e1",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "ce7b49ba-23cc-4ff9-929b-f0040957a2eb",
+						"position": [5, 25, 2],
+						"size": [140, 200, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [5, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1791, 0, 1050],
+				"size": [300, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#f2e3e1",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "dde43268-366d-4035-8a01-33fc7d57466d",
+						"position": [102, 40, 2],
+						"size": [95, 170, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [102, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1791, 0, 1350],
+				"size": [150, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#E0F1E8",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "b33f8f63-b4f9-4ae9-9e65-45e74126fb85",
+						"position": [5, 25, 2],
+						"size": [140, 200, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [5, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1641, 0, 1350],
+				"size": [300, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#E0F1E8",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "836c4520-f252-4381-84bc-4cc18d48783a",
+						"position": [75, 50, 2],
+						"size": [150, 150, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [75, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1641, 0, 1650],
+				"size": [300, 250, 0.1],
+				"angle": 0,
+				"color": "#E0F1E8",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "4866964e-a305-4667-b9bb-c8bb4baee7d1",
+						"position": [75, 50, 2],
+						"size": [150, 150, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [75, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1941, 0, 1650],
+				"size": [150, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#E5E5E8",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "dca0e927-aa38-4fbb-86a7-42f67c61c00f",
+						"position": [5, 25, 2],
+						"size": [140, 200, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [5, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1941, 0, 1800],
+				"size": [600, 250, 0.1],
+				"angle": 0,
+				"color": "#E5E5E8",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "e1b0c6bf-3e4e-4425-a798-e9c39026804d",
+						"position": [87, 68, 2],
+						"size": [160, 113, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [87, 200, -10]
+						}
+					},
+					{
+						"resourceId": "daa21534-742c-46d0-89d4-515425df4b6f",
+						"position": [361, 68, 2],
+						"size": [160, 113, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [361, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [2541, 0, 1800],
+				"size": [150, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#FAEDEB",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "68b010e7-89ec-46b0-886e-eb8ad11167f8",
+						"position": [3, 25, 2],
+						"size": [140, 200, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [3, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [2541, 0, 1950],
+				"size": [600, 250, 0.1],
+				"angle": 0,
+				"color": "#FAEDEB",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "06111f2f-3886-49ad-9bbe-dc0411c9daa0",
+						"position": [120, 45, 2],
+						"size": [88, 160, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [120, 200, -10]
+						}
+					},
+					{
+						"resourceId": "42f66a6e-0f26-441f-9320-ed5e95dbf91c",
+						"position": [392, 45, 2],
+						"size": [88, 160, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [392, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [3141, 0, 1950],
+				"size": [600, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#FAEDEB",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "7a3d3571-dc56-428a-a8e7-167321e5dc09",
+						"position": [166, 50, 2],
+						"size": [267, 150, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [166, 200, -10]
+						},
+						"isVideo": true
+					}
+				]
+			},
+			{
+				"position": [3141, 0, 2550],
+				"size": [150, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#F2F1D9",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "0445c30b-81c4-4b4b-8ce0-81cdd90cdb26",
+						"position": [5, 25, 2],
+						"size": [140, 200, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [5, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [2991, 0, 2550],
+				"size": [600, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#F2F1D9",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "15d90d8f-1a3d-448f-8b29-608bf76e0251",
+						"position": [120, 50, 2],
+						"size": [124, 150, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [120, 200, -10]
+						}
+					},
+					{
+						"resourceId": "dd2efc63-a028-4fcf-8d34-006329529ee5",
+						"position": [375, 50, 2],
+						"size": [105, 150, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [375, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [2991, 0, 3150],
+				"size": [300, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#F2F1D9",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "173f0d57-ae0b-4759-917a-0f1bc9de64c8",
+						"position": [75, 73, 2],
+						"size": [150, 103, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [75, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [2691, 0, 3150],
+				"size": [600, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#F2F1D9",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "08a91234-bb75-45d2-a9b1-fc749c98e560",
+						"position": [101, 50, 2],
+						"size": [150, 150, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [101, 200, -10]
+						}
+					},
+					{
+						"resourceId": "750fac45-1f19-4bdb-912b-7b7bc47265c2",
+						"position": [373, 50, 2],
+						"size": [127, 150, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [373, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [2691, 0, 3750],
+				"size": [400, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#F2F1D9",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "fe8440ab-d3b5-4cfd-bfd7-45638885c97b",
+						"position": [115, 69, 2],
+						"size": [170, 112, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [115, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [2291, 0, 3750],
+				"size": [600, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#F2F1D9",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "337b26c7-bf8e-449f-93b9-45bc4625ca29",
+						"position": [125, 39, 2],
+						"size": [60, 170, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [125, 200, -10]
+						}
+					},
+					{
+						"resourceId": "1999cb6b-2d19-439b-8b50-ba3d406cffbf",
+						"position": [335, 79, 2],
+						"size": [150, 85, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [335, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [2291, 0, 4350],
+				"size": [400, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#F2F1D9",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "d1791cfd-1d22-4897-adc1-a81b30ac5f5d",
+						"position": [125, 75, 2],
+						"size": [150, 99, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [125, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1891, 0, 4350],
+				"size": [600, 250, 0.1],
+				"angle": 1.5707963267948966,
+				"color": "#F2F1D9",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "f30c06f3-0ee7-417f-b1ed-c697df7a4f86",
+						"position": [95, 60, 2],
+						"size": [150, 130, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [95, 200, -10]
+						}
+					},
+					{
+						"resourceId": "05e9dc28-f7c7-4f6f-b10c-e2487b111f93",
+						"position": [351, 59, 2],
+						"size": [150, 132, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [351, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1891, 0, 3750],
+				"size": [600, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#F2F1D9",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "ffcc9034-02ac-42a7-971d-3da9d89576b1",
+						"position": [100, 71, 2],
+						"size": [150, 105, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [100, 200, -10]
+						}
+					},
+					{
+						"resourceId": "7a0d8402-a135-4b48-989a-c169c53bff07",
+						"position": [350, 18, 2],
+						"size": [150, 214, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [350, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1291, 0, 3750],
+				"size": [300, 250, 0.1],
+				"angle": 1.5707963267948966,
+				"color": "#F2F1D9",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "758d9fb8-0fe7-4d10-89c2-58a2dfbf1bb7",
+						"position": [94, 50, 2],
+						"size": [111, 150, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [94, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1291, 0, 3450],
+				"size": [600, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#F2F1D9",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "2d94f260-9e3f-49b0-927e-525a01141af7",
+						"position": [120, 45, 2],
+						"size": [112, 160, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [120, 200, -10]
+						}
+					},
+					{
+						"resourceId": "9a84371f-e5f7-401a-b938-f969160139d9",
+						"position": [365, 45, 2],
+						"size": [113, 160, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [365, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [691, 0, 3450],
+				"size": [300, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#F2F1D9",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "d8dd6c8d-843f-4ff7-94e2-69aff46f16c7",
+						"position": [87, 45, 2],
+						"size": [126, 160, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [87, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [691, 0, 3750],
+				"size": [600, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#E4E8E7",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "45ac83a1-7c3b-4a8f-b13d-394855eb4645",
+						"position": [354, 69, 2],
+						"size": [160, 112, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [354, 200, -10]
+						}
+					},
+					{
+						"resourceId": "623981e3-7050-41ca-8a12-51613a8937a9",
+						"position": [80, 41, 2],
+						"size": [140, 200, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [80, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [91, 0, 3750],
+				"size": [300, 250, 0.1],
+				"angle": 1.5707963267948966,
+				"color": "#E4E8E7",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "b80cbfe6-d9f9-442d-94f6-15df3edfa60e",
+						"position": [93, 45, 2],
+						"size": [113, 160, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [93, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [91, 0, 3450],
+				"size": [150, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#FFFBE7",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "860b71b4-3c5d-4ef0-bcb0-25a480e42dd9",
+						"position": [5, 25, 2],
+						"size": [140, 200, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [5, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-59, 0, 3450],
+				"size": [300, 250, 0.1],
+				"angle": 1.5707963267948966,
+				"color": "#FFFBE7",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "c682978d-bb0f-462e-9924-9522a0bdc1ac",
+						"position": [110, 35, 2],
+						"size": [79, 180, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [110, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-59, 0, 3150],
+				"size": [560, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#FFFBE7",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "e0b229c1-f6bf-43cf-9905-34019e2bee8d",
+						"position": [100, 49, 2],
+						"size": [150, 151, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [100, 200, -10]
+						}
+					},
+					{
+						"resourceId": "962713bf-083e-4b68-9000-bbdcdaf6ee6a",
+						"position": [311, 50, 2],
+						"size": [148, 150, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [311, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-619, 0, 3150],
+				"size": [150, 250, 0.1],
+				"angle": 4.71238898038469,
+				"color": "#E7F6F6",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "2bb94d0a-6c28-4d14-8b5b-cc3ac23edc1a",
+						"position": [5, 25, 2],
+						"size": [140, 200, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [5, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-619, 0, 3300],
+				"size": [300, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#E7F6F6",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "76a3ef65-4ac0-4be7-ad9e-4ce125eec25f",
+						"position": [70, 70, 2],
+						"size": [160, 110, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [70, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-919, 0, 3300],
+				"size": [600, 250, 0.1],
+				"angle": 1.5707963267948966,
+				"color": "#DDE4E4",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "81a2b9c3-4c7a-4db5-be99-186816c51129",
+						"position": [74, 55, 2],
+						"size": [200, 140, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [74, 200, -10]
+						}
+					},
+					{
+						"resourceId": "bf200ce4-8063-4e03-9e3d-5761490ed1f8",
+						"position": [327, 55, 2],
+						"size": [200, 140, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [327, 200, -10]
+						}
+					},
+					{
+						"resourceId": "f07c8d42-397f-40c6-96e1-ed95b03d731a",
+						"position": [476, 198, 2],
+						"size": [100, 33, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [476, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-919, 0, 2700],
+				"size": [300, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#DDE4E4",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "eb9aaf7e-dfe0-4c7b-a387-574bca861f21",
+						"position": [94, 45, 2],
+						"size": [112, 160, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [94, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-1219, 0, 2700],
+				"size": [600, 250, 0.1],
+				"angle": 1.5707963267948966,
+				"color": "#DDE4E4",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "41b8a82f-dbb4-4bf4-9b4e-15e4ef8fed28",
+						"position": [100, 45, 2],
+						"size": [128, 160, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [100, 200, -10]
+						}
+					},
+					{
+						"resourceId": "fa386731-0c96-49d2-b226-e68684ed484c",
+						"position": [351, 50, 2],
+						"size": [150, 150, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [351, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-1219, 0, 2100],
+				"size": [300, 250, 0.1],
+				"angle": 0,
+				"color": "#DDE4E4",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "0b646689-e0c0-410e-a038-2a55ae43f147",
+						"position": [90, 45, 2],
+						"size": [120, 160, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [90, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-919, 0, 2100],
+				"size": [300, 250, 0.1],
+				"angle": 1.5707963267948966,
+				"color": "#DDE4E4",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "ab6b2d2b-83e4-4d9b-8795-b399cac3bcc8",
+						"position": [70, 69, 2],
+						"size": [160, 112, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [70, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-919, 0, 1800],
+				"size": [300, 250, 0.1],
+				"angle": 0,
+				"color": "#DDE4E4",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "281cd4ce-b76e-4611-a675-31b1505c0c75",
+						"position": [90, 40, 2],
+						"size": [119, 170, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [90, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-619, 0, 1800],
+				"size": [600, 250, 0.1],
+				"angle": 1.5707963267948966,
+				"color": "#DDE4E4",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "80edf91b-efd7-42cb-aff1-4ecce306c56a",
+						"position": [98, 72, 2],
+						"size": [150, 103, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [98, 200, -10]
+						}
+					},
+					{
+						"resourceId": "d63dc3ad-76f6-4b00-bd0e-a7ab4cea8760",
+						"position": [350, 72, 2],
+						"size": [150, 105, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [350, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-619, 0, 1200],
+				"size": [300, 250, 0.1],
+				"angle": 3.141592653589793,
+				"color": "#DDE4E4",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "2be7cc15-139d-4721-b0b6-23ad21752e7e",
+						"position": [70, 71, 2],
+						"size": [160, 108, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [70, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-919, 0, 1200],
+				"size": [300, 250, 0.1],
+				"angle": 1.5707963267948966,
+				"color": "#DDE4E4",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "cad3f863-4985-4b8a-a61a-b228cbf200c9",
+						"position": [75, 50, 2],
+						"size": [150, 150, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [75, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-919, 0, 900],
+				"size": [300, 250, 0.1],
+				"angle": 0,
+				"color": "#DDE4E4",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "9c8a7732-17bb-4a58-9d25-cd7e4e772f86",
+						"position": [70, 69, 2],
+						"size": [160, 112, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [70, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-619, 0, 900],
+				"size": [300, 250, 0.1],
+				"angle": 1.5707963267948966,
+				"color": "#DDE4E4",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "46051465-aefc-4970-a724-9cb95c7eed08",
+						"position": [70, 67, 2],
+						"size": [160, 115, 1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [70, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [-619, 0, 600],
+				"size": [620, 250, 0.1],
+				"angle": 0,
+				"color": "#000000",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "847aecf5-77d4-4a52-ac4c-982caf4f402e",
+						"position": [166, 154, 0.5],
+						"size": [74, 60, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [166, 200, -10]
+						}
+					},
+					{
+						"resourceId": "b9773aab-aa41-4875-88a7-a7ab55c1ab0e",
+						"position": [330, 122, 0.5],
+						"size": [159, 120, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [330, 200, -10]
+						}
+					},
+					{
+						"resourceId": "ad891011-a433-4a70-802a-f158ae7bcbfb",
+						"position": [246, 35, 0.5],
+						"size": [126, 180, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [246, 200, -10]
+						}
+					},
+					{
+						"resourceId": "60d11042-2cd7-4b49-b72c-6cd47a44bb7e",
+						"position": [454, 36, 0.5],
+						"size": [126, 180, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [454, 200, -10]
+						}
+					},
+					{
+						"resourceId": "237cb156-fef0-48f0-8c08-df070125460c",
+						"position": [37, 35, 0.5],
+						"size": [126, 180, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [37, 200, -10]
+						}
+					}
+				]
+			},
+			{
+				"position": [1, 0, 600],
+				"size": [600, 250, 0.1],
+				"angle": 1.5707963267948966,
+				"color": "#000000",
+				"backgroundImageId": null,
+				"audioId": null,
+				"contents": [
+					{
+						"resourceId": "847aecf5-77d4-4a52-ac4c-982caf4f402e",
+						"position": [505, 120, 0.5],
+						"size": [80, 64, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [505, 200, -10]
+						}
+					},
+					{
+						"resourceId": "b9773aab-aa41-4875-88a7-a7ab55c1ab0e",
+						"position": [0, 100, 0.5],
+						"size": [198, 150, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [0, 200, -10]
+						}
+					},
+					{
+						"resourceId": "6129c2c2-710d-4336-b173-3e91096926cf",
+						"position": [158, 0, 0.5],
+						"size": [285, 200, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [158, 200, -10]
+						}
+					},
+					{
+						"resourceId": "f07c8d42-397f-40c6-96e1-ed95b03d731a",
+						"position": [485, 202, 0.5],
+						"size": [100, 33, 0.1],
+						"frameIndex": -1,
+						"spotLight": {
+							"spotLightIndex": 0,
+							"position": [485, 200, -10]
+						}
+					}
+				]
+			}
+		],
+		"frames": []
+	},
+	"allResources": [
+		{
+			"id": "6130258d-9e4f-40f9-84c1-735e1d53b27c",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fgallery-avatar.jpg?alt=media&token=3d59a6b0-e0e0-4566-9aad-33774c4d6588",
+			"fileName": "gallery-avatar.jpg",
+			"group": 1
+		},
+		{
+			"id": "06a78c1c-41ae-42c3-8907-54f2bcaa558b",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fe5689bb5-602f-4f78-b06f-0e7c8b84748a?alt=media&token=75f7f311-e55e-459a-bb9e-ccede6a75168",
+			"fileName": "1_ElsentidosecretodelascosasBrenda.jpg",
+			"fileSize": 1056279,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "El sentido secreto de las cosas",
+				"description": "<div><b>El sentido secreto de las cosas</b></div><div>2022</div><div>Técnica mixta/lienzo. 120 x 100 cm</div><div>El sentido secreto de las cosas nace del encuentro de los fragmentos de memoria que van creándose en cada ciudad habitada, en cada escenario del mundo que se marca instantáneamente en nuestro espacio invisible. Somos el encuentro silencioso de imágenes, frases, emociones que, como en un libro, entramos, damos vuelta, nos perdemos para encontrar en algún color que viaja vertiginosamente, un camino que nos permita descubrir figuras sin formas, escenarios que nutren esta ciudad que existe en nuestra mente, por la que transitamos, lugares extraños y no poseídos, de esta manera la memoria puede reinventar signos y símbolos para poder existir.</div><div><br></div><div><b>Brenda R. Fernández</b></div><div>México</div><div>https://www.brendarfdez.com.mx/&nbsp;</div><div><br></div><div>The secret meaning of things is born from the encounter of the fragments of memory that are created in each inhabited city, in each scene of the world that is instantly marked in our invisible space. We are the silent encounter of images, phrases, emotions that, like in a book, we enter, we go through, we get lost to find a color that travels dizzyingly, a path that allows us to discover figures without forms, scenarios that nourish this city that exists in our mind, through which we travel, strange and unpossessed places, in this way memory can reinvent signs and symbols in order to exist.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 83,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "acd996cd-9f4a-4fe4-b69e-480179062618",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fe0404d91-2726-495b-b9e0-ac16d82d7199?alt=media&token=45873a77-2caa-4076-bcf4-ea4172766722",
+			"fileName": "2_Estrellas Polivalentes_eme3res.jpg",
+			"fileSize": 2825174,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Estrellas Polivalentes",
+				"description": "<div><b>Estrellas Polivalentes</b></div><div>2022</div><div>Ilustración digital. 5266 x 4015 px</div><div>Ilustración que incluye los personajes o lugares más famosos de los libros de Italo Calvino como El caballero inexistente, El barón rampante, Las ciudades invisibles, El vizconde demediado o Las cosmicómicas. La idea es crear un microcosmos con una visión actual sobre el mundo creativo del escritor italiano.</div><div><br></div><div><b>eme3res</b></div><div>España</div><div>https://www.instagram.com/eme3res/</div><div><br></div><div>Illustration that includes the most famous characters or places from Italo Calvino's books such as The non-existent knight, The baron rampant, The invisible cities, The demediated viscount or The cosmicomics. The idea is to create a microcosm with a current vision of the creative world of the Italian writer.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 76,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "65797f26-77a4-423f-8592-6a8699928fd0",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F61220031-2b74-451e-89ca-539e3cf3edc9?alt=media&token=01c7283d-7ae6-41cf-aff5-f5632e4a507f",
+			"fileName": "2a_Calvino sobre CalvinoIvana.jpeg",
+			"fileSize": 896397,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Calvino sobre Calvino",
+				"description": "<div><b>Calvino sobre Calvino</b></div><div>2023</div><div>Ilustración digital. 2400 x 1600 px</div><div>La imagen refiere la metamorfosis del autor a través del tiempo y los diversos roles que aborda como escritor, editor y lector.</div><div><br></div><div><b>Ivana Calamita</b></div><div>Argentina</div><div>www.ivanacalamita-ilustraciones.blogspot.com</div><div><br></div><div>The image refers to the metamorphosis of the author over time and the various roles he addresses as writer, editor and reader.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 66,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "9d5e594d-5f21-4245-9cba-006bb75bf511",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Faa1e4c74-3b2c-452f-9a15-d91bea3828f2?alt=media&token=b339793d-ba2f-476b-966f-2a727a497310",
+			"fileName": "3_LamaletadelescritorMarceloMartin.jpg",
+			"fileSize": 2133353,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "La Maleta del escritor",
+				"description": "<div><b>La Maleta del escritor</b></div><div>2023</div><div>Ensamblaje 80 x 50 cm</div><div>En septiembre de 1984. Jorge Luis Borges e Ítalo Calvino visitaron Sevilla. Pero lo que nunca trascendió fue que la maleta de Calvino se perdió y no llegó (nunca) donde se hospedaba. En el homenaje al centenario de su nacimiento, quiero devolver la maleta del escritor.</div><div><br></div><div><b>Marcelo Martín</b></div><div>Argentina/España</div><div>https://www.facebook.com/marcelodelira.martinarte&nbsp;</div><div><br></div><div>In September 1984, Jorge Luis Borges and Italo Calvino visited Seville. But what was never known was that Calvino's suitcase was lost and never arrived where he was staying. In honor of the centennial of his birth, I want to return the writer's suitcase.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 69,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "ff05403d-7d1c-4709-883f-ad2db121b91a",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F91c65b93-76fe-4ea2-98ee-613672951243?alt=media&token=7e82b357-49d3-4d19-8730-032aabe83c32",
+			"fileName": "4_FragmentosdlatierraDanielRomero_p.jpg",
+			"fileSize": 2870472,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Fragmentos de la Tierra",
+				"description": "<div><b>Fragmentos de la Tierra</b></div><div>2014</div><div>Técnica mixta sobre madera. 60 x 120 cm</div><div>Esta obra forma parte del proyecto \"El origen del universo\" donde el artista explora el universo interno con el lenguaje de la naturaleza. Como en la obra de Italo Calvino, siempre existe esta doble función, del realismo y la fantasía. Análogamente se inspira en los paisajes italianos en su estancia de dos años en Trieste, donde conoció profundamente la obra de Italo Calvino.</div><div><br></div><div><b>DARONi</b></div><div>México/Noruega</div><div>https://alit31.wixsite.com/danielromeronieto&nbsp;</div><div><br></div><div>This work is part of the project \"The origin of the universe\" where the artist explores the internal universe with the language of nature. As in the work of Italo Calvino, there is always this double function, of realism and fantasy. Similarly, he was inspired by Italian landscapes during his two-year stay in Trieste, where he became deeply familiar with the work of Italo Calvino.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 49,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "0cae1568-0d00-4303-aa5b-32b11512288d",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fc77dad43-67e8-45a7-bf8a-8b95f385d1e0?alt=media&token=ac1b1fb1-f6cb-4ff7-8286-9233c4b94d01",
+			"fileName": "4a_NaturalezainternaDanielRomero_p.jpg",
+			"fileSize": 2284225,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "La Naturaleza Interna",
+				"description": "<div><b>La Naturaleza Interna</b></div><div><b>2023</b></div><div><b>Técnica mixta sobre tela. 134 x 185 cm</b></div><div><b>Está obra forma parte del proyecto abstracciones arquitectónicas de paisajes. En este proyecto trabaja en la transformación alquímica del ser humano. Con el objetivo de captar la \"transformación\" cómo metáfora que enfrentamos todos como proceso de cambio.&nbsp;</b></div><div><b>Su obra es una danza entre una contemplación introspectiva y una inspiración externa. Justamente es aquí en dónde es análoga al proceso de trabajo de Italo Calvino en su inspiración intuitiva y el realismo.</b></div><div><b><br></b></div><div><b>DARONi</b></div><div>México/Noruega</div><div>https://alit31.wixsite.com/danielromeronieto&nbsp;</div><div><br></div><div>This work is part of the architectural abstractions of a landscapes project. In this project he works on the alchemical transformation of the human being. The principal objective is to capture \"transformation\" as a metaphor that we all face as a process of change.</div><div>His work is a dance between introspective contemplation and external inspiration. It is precisely here where it is analogous to Italo Calvino's work process in its intuitive inspiration and realism.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 73,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "0195dd1b-128b-45f0-8455-9bf1b5f7caa4",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F78915648-f3f9-414e-9b8f-a2a0892c981a?alt=media&token=2ee773f0-9d98-4c87-afe6-b4d0e40e24ab",
+			"fileName": "5_LeeresencontraralgoquevaaexistirUlises.jpg",
+			"fileSize": 1983105,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Leer es encontrar algo que va a existir",
+				"description": "<div><b>Leer es encontrar algo que va a existir</b></div><div>2015</div><div>Arte digital. 60 x 43 cm</div><div>La obra parte de una frase de Italo Calvino que menciona: “Leer es encontrar algo que</div><div>va a existir”, que pone de manifiesto su riqueza de géneros que atravesó el escritor</div><div>italiano, desde el neorrealismo, la fantasía, hasta el realismo y reflexión filosófica.</div><div><br></div><div><b>Ulises Ortiz</b></div><div>México</div><div>www.plasck.blogspot.mx</div><div><br></div><div>This work is based on a phrase by Italo Calvino that mentions: “To read is to find something that is going to exist”, which reveals the richness of genres that the Italian writer went through, from neorealism, fantasy, to realism and philosophical reflection.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 71,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "be7e2507-d1a0-4c18-9f27-66619ae06434",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Ff5048810-ad51-4c6f-b8ee-f619d50549df?alt=media&token=fa88f2b4-e0fc-4687-acc3-83efbe651094",
+			"fileName": "pared_inicio1.jpg",
+			"fileSize": 2142641,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Bienvenida",
+				"description": null,
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 35,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "76a3ef65-4ac0-4be7-ad9e-4ce125eec25f",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fcee672c5-bdc0-4374-b883-cc5e18c8a0c4?alt=media&token=f18ea652-4660-45d6-954a-cfaab62a4346",
+			"fileName": "6_ElHombreHonradoAliomezMoron.jpg",
+			"fileSize": 288419,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "El Hombre Honrado",
+				"description": "<div><b>El Hombre Honrado</b></div><div>2023</div><div>Ilustración Digital. 2732 x 2048 px</div><div>El Hombre Honrado es una ilustración digital inspirada en el cuento El país donde todos eran ladrones de Italo Calvino. El sujeto de la obra se encuentra flaco, desnutrido, arrodillado frente a un pasamontañas como símbolo de la tentación de convertirse en ladrón. En el cuento, el hombre honrado llegó como una oveja negra a una sociedad que se sostenía en el robo. Si todos robaban de todos, se mantenía el equilibrio. Él, por no robar, no sólo falleció del hambre, sino que causó el hambre en los ladrones que se quedaron sin robar las noches que él llegó. Se observan distintas versiones de él en la ilustración, que son aún la misma persona, mostrando el duelo por el que pasó el hombre honrado, resistiendo a terminar en la misma situación que los ladrones; aún si eso significaba el quiebre de todo aquel sistema.</div><div><br></div><div><b>Ali Gómez Morón</b></div><div>Perú</div><div>https://www.instagram.com/gomez.moron/&nbsp;</div><div><br></div><div>The Honest Man is a digital illustration inspired by the story The Country Where Everyone Was Thieves by Italo Calvino. The subject of the work is skinny, malnourished, kneeling in front of a balaclava as a symbol of the temptation to become a thief. In the story, the honest man arrived as a black sheep to a society that sustained itself on theft. If everyone stole from everyone, the balance was maintained. He, by not stealing, not only died of hunger, but also caused hunger in the thieves who were left without stealing the nights he arrived. Different versions of him are seen in the illustration, which are still the same person, showing the grief that the honest man went through, resisting ending up in the same situation as the thieves; even if that meant the breakdown of that entire system.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 69,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "836c4520-f252-4381-84bc-4cc18d48783a",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fc8b913d3-2ed4-42dc-aaed-5a216af2e2a6?alt=media&token=124ec1a0-974b-4cdd-9bca-c565a0894765",
+			"fileName": "7_ElbaronrampanteMariaArambarri_p.jpg",
+			"fileSize": 1092905,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "El barón rampante",
+				"description": "<div><b>El barón rampante</b></div><div>2023</div><div>Pintura Digital. 1920 x 1920 px</div><div>De niña pasaba las horas subida a los árboles, mi abuela desde abajo me decía: \"Pareces el Barón Rampante!\". Ahora, miro con añoranza los árboles y recuerdo con amor a los que ya no están. Es un homenaje a todo lo que amo, a Italo Calvino y su inmensidad, a los árboles, a la naturaleza y por supuesto, a mi abuela. Por todo lo oculto entre las hojas.</div><div><b><br></b></div><div><b>Mara Arambarri</b></div><div>España</div><div>https://www.instagram.com/maraarambarri/&nbsp;</div><div><br></div><div>As a child I spent hours climbing trees, my grandmother told me from the ground: \"You look like the Baron Rampant!\". Now, I look longingly at the trees and remember with love those who are no longer here. It is a tribute to everything I love, to Italo Calvino and his immensity, to the trees, to nature and of course, to my grandmother. For everything hidden between the leaves.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "e1b0c6bf-3e4e-4425-a798-e9c39026804d",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Faad28878-4f51-4105-a0b5-a240777aa350?alt=media&token=2f06463a-a4ed-4551-a88d-6ab99e8bbf76",
+			"fileName": "9_MigrantsPauloFinocchi_p.jpg",
+			"fileSize": 618817,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Migrants",
+				"description": "<div><b>Migrants</b></div><div>2023</div><div>Lápiz y técnica digital. 60 x 40 cm</div><div>A veces me pregunto, ¿qué es el arte? o ¿por qué soy artista? o si, ¿tengo una misión en tanto que soy artista? La respuesta es esta obra: \"MIgrants\". Soy nieto de inmigrantes y fui un inmigrante durante 27 años en mi querida Francia. \"Y me duele la gente, su dolor, sus heridas, porque así solamente interpreto la vida\" Canta una cantante Argentina, Eladia Blázquez. Esta obra refleja mi dolor y el dolor de estos inmigrantes y la relación con Calvino, (un enorme referente en mi vida), Marcovaldo. La palabra extranjero viene del francés antiguo estrangier (hoy étranger), formada de estrange (extraño) más el sufijo francés -ier, equivalente a nuestro -ero …</div><div><br></div><div><b>Finocchi</b></div><div>Argentina</div><div>https://www.facebook.com/paulo.finocchi&nbsp;</div><div><br></div><div>Sometimes I wonder what art is, or why I am an artist. Or maybe, do I have a mission as an artist? The answer is this work: \"MIgrants\". I am the grandson of immigrants and I was an immigrant for 27 years in my beloved France.</div><div>This work reflects my pain and the pain of these immigrants and the relationship with Calvino, (a huge reference in my life), Marcovaldo. The word foreigner comes from the old French estrangier (today étranger), formed from estrange (strange) plus the French suffix -ier.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 71,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "daa21534-742c-46d0-89d4-515425df4b6f",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F9d8c41c5-08f3-40bc-a633-8f4aee9dcbdf?alt=media&token=92fca19b-e829-4116-9b28-47ed588e9822",
+			"fileName": "9a_MigrantsPauloFinocchi.jpg",
+			"fileSize": 1637231,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Migrants II",
+				"description": "<div><b>Migrants</b></div><div>2023</div><div>Lápiz y técnica digital. 60 x 40 cm</div><div>A veces me pregunto, ¿qué es el arte? o ¿por qué soy artista? o si, ¿tengo una misión en tanto que soy artista? La respuesta es esta obra: \"MIgrants\". Soy nieto de inmigrantes y fui un inmigrante durante 27 años en mi querida Francia. \"Y me duele la gente, su dolor, sus heridas, porque así solamente interpreto la vida\" Canta una cantante Argentina, Eladia Blázquez. Esta obra refleja mi dolor y el dolor de estos inmigrantes y la relación con Calvino, (un enorme referente en mi vida), Marcovaldo. La palabra extranjero viene del francés antiguo estrangier (hoy étranger), formada de estrange (extraño) más el sufijo francés -ier, equivalente a nuestro -ero …</div><div><br></div><div><b>Finocchi</b></div><div>Argentina</div><div>https://www.facebook.com/paulo.finocchi&nbsp;</div><div><br></div><div>Sometimes I wonder what art is, or why I am an artist. Or maybe, do I have a mission as an artist? The answer is this work: \"MIgrants\". I am the grandson of immigrants and I was an immigrant for 27 years in my beloved France.</div><div>This work reflects my pain and the pain of these immigrants and the relationship with Calvino, (a huge reference in my life), Marcovaldo. The word foreigner comes from the old French estrangier (today étranger), formed from estrange (strange) plus the French suffix -ier.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 71,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "06111f2f-3886-49ad-9bbe-dc0411c9daa0",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fefab912b-8052-4d94-b93f-a2f24b1e43fa?alt=media&token=ca07e16a-f5ab-41f4-a0f2-6370d8f294a9",
+			"fileName": "10_el ermitanoClaudiaMelo.jpg",
+			"fileSize": 503920,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "El Ermitaño",
+				"description": "<div><b>El Ermitaño</b></div><div>2023</div><div>Modelado 3D. 1800 x 990 px</div><div>La obra representa una carta de Tarot: El Ermitaño. Diseñó los 22 arcanos mayores en el año 2006. Para dicho trabajo se basó en el estudio del tarot de Marsella y en las barajas Visconti- Sforza. También en la lectura de varios libros de ficción, entre otros: El castillo de los destinos cruzados y Il Tarocchi, Il mazzo visconteo di Bergamo e New York de Italo Calvino.&nbsp;</div><div><br></div><div><b>Claudia Melo</b></div><div>Argentina</div><div>http://www.claudiamelo.com</div><div><br></div><div>The work represents a Tarot card: The Hermit. She designed the 22 major arcana in 2006. For this work she based herself on the study of the Marseille tarot and the Visconti-Sforza decks. Also in reading several fiction books, among others: The Castle of Crossed Destinies and Il Tarocchi, Il mazzo visconteo di Bergamo e New York by Italo Calvino.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 55,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "42f66a6e-0f26-441f-9320-ed5e95dbf91c",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F3ebd3885-dcc6-4bcd-839e-a472f05193d8?alt=media&token=349865dc-2265-4544-8120-3fa945ec8298",
+			"fileName": "10a_EllocoClaudiaMelo.jpg",
+			"fileSize": 354729,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "El Loco",
+				"description": "<div><b>El Loco</b></div><div>2023</div><div>Modelado 3D</div><div><br></div><div>La obra es la representación de un Arcano Mayor del Tarot, El Loco o Il Matto. Es un retrato de un bufón que intenta transmitir la sensibilidad medieval, empujada por la resonancia interna de nuestra memoria colectiva. Con muy poca exageración de la emocionalidad, procuro comunicar el profundo significado de este triunfo a través de sutiles características faciales.</div><div><br></div><div>Claudia Melo</div><div>Argentina</div><div>http://www.claudiamelo.com</div><div><br></div><div>The work is the representation of the Major Arcana of the Tarot, The Fool or Il Matto. It is a portrait of a jester that tries to convey medieval sensitivity, driven by the internal resonance of our collective memory. With very little emotional exaggeration, I seek to communicate the profound meaning of this triumph through subtle facial features.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 55,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "7a3d3571-dc56-428a-a8e7-167321e5dc09",
+			"type": "video",
+			"url": "https://youtu.be/mKpk_6sHr10",
+			"group": 1,
+			"disabled": false,
+			"mediaPlayer": {
+				"autoplay": false,
+				"loop": false,
+				"source": "youTube",
+				"id": "mKpk_6sHr10",
+				"thumbnailUrl": "https://img.youtube.com/vi/mKpk_6sHr10/maxresdefault.jpg"
+			},
+			"info": {
+				"hidden": false,
+				"name": "Fragmentos del Tarot del Movimiento",
+				"description": "<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><font face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px; letter-spacing: 0.553845px; white-space-collapse: preserve;\"><b>Fragmentos del Tarot del Movimiento</b></span></font></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><font face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px; letter-spacing: 0.553845px; white-space-collapse: preserve;\">2022</span></font></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><font face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px; letter-spacing: 0.553845px; white-space-collapse: preserve;\">Vídeo en loop. 7´.</span></font></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><font face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px; letter-spacing: 0.553845px; white-space-collapse: preserve;\">Fragmentos de la obra de instalación digital, Tarot del Movimiento. Una adaptación de la baraja de tarot de Rider Waite para una app y una sala de cine.&nbsp; Esta presentación está realizada con una selección de vídeos que traducen los símbolos y significados de las cartas. El autor convierte así los mazos de cartas en una especie de «máquina narrativa combinatoria» como lo haría Italo Calvino en El Castillo de los Destinos Cruzados.</span></font></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><b style=\"font-size: 14.6667px; letter-spacing: 0.553845px; white-space-collapse: preserve; font-family: Arial, sans-serif;\"><br></b></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><b style=\"font-size: 14.6667px; letter-spacing: 0.553845px; white-space-collapse: preserve; font-family: Arial, sans-serif;\">Yudji Oliveira</b><br></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><font face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px; letter-spacing: 0.553845px; white-space-collapse: preserve;\">Brasil</span></font></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><font face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px; letter-spacing: 0.553845px; white-space-collapse: preserve;\">https://www.instagram.com/triste.plutao/</span></font></p><div><br></div>"
+			}
+		},
+		{
+			"id": "15d90d8f-1a3d-448f-8b29-608bf76e0251",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F59a9920a-8071-4cb3-afc4-4db101426346?alt=media&token=e3277372-6c0b-4efa-91c0-d6c708a61c04",
+			"fileName": "12_AvecessalirdelhoyoesdificilLauraAguilar.jpg",
+			"fileSize": 410589,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "A veces es difícil salir del hoyo...",
+				"description": "<div><b>A veces es difícil salir del hoyo...pero no imposible</b></div><div>2023</div><div>Pintura acrílica sobre tabla. 90 x 70 cm</div><div>Creo que mi obra no podría haber sido de otra manera. Haber crecido entre libros de Italo Calvino e ilustraciones de Escher, han marcado sin ninguna duda mi trayectoria. A veces pienso si mis escaleras invitarán, al fin, a los habitantes de Baucis a descender a tierra, o si los tenderetes que cuelgan entre las azoteas, no serán, en realidad, los restos olvidados de alguna de las infinitas Maurilia. Crear soñando que formo parte de esas vidas imaginadas, sentir que de alguna manera las habito en mí y que les doy forma, la mía. Eso es, sin duda, uno de los motores centrales de mi trabajo.</div><div><br></div><div><b>Laura Aguilar</b></div><div>España/Francia</div><div>https://www.instagram.com/laura.aguilar.fuentes/&nbsp;</div><div><br></div><div>I think my work could not have been any other way. Having grown up among books by Italo Calvino and illustrations by Escher it undoubtedly marked my career. Sometimes I think if my stairs will finally invite the inhabitants of Baucis to descend to earth, or if the stalls that hang between the roofs are not, in reality, the forgotten remains of one of the infinite Maurilia. Create by dreaming that I am part of those imagined lives, feeling that in some way I inhabit them in myself and that I give them shape, my own. That is, without a doubt, one of the central focuses of my work.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 83,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "dd2efc63-a028-4fcf-8d34-006329529ee5",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fdebf112f-f206-4c3c-aabf-7971e757cf70?alt=media&token=d11cb0d7-fbef-471b-9fa9-12620786dbb2",
+			"fileName": "12a_CiudadXIVLauraAguilar.jpg",
+			"fileSize": 2804396,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Ciudad XIV",
+				"description": "<div><b>Ciudad XIV</b></div><div>2019</div><div>Pintura acrílica sobre tabla. 70 x 50 cm</div><div>Creo que mi obra no podría haber sido de otra manera. Haber crecido entre libros de Italo Calvino e ilustraciones de Escher, han marcado sin ninguna duda mi trayectoria. A veces pienso si mis escaleras invitarán, al fin, a los habitantes de Baucis a descender a tierra, o si los tenderetes que cuelgan entre las azoteas, no serán,en realidad, los restos olvidados de alguna de las infinitas Maurilia. Crear soñando que formo parte de esas vidas imaginadas, sentir que de alguna manera las habito en mí y que les doy forma, la mía. Eso es, sin duda, uno de los motores centrales de mi trabajo.</div><div><br></div><div><b>Laura Aguilar</b></div><div>España/ Francia</div><div>https://www.instagram.com/laura.aguilar.fuentes/&nbsp;</div><div><br></div><div>I think my work could not have been any other way. Having grown up among books by Italo Calvino and illustrations by Escher it undoubtedly marked my career. Sometimes I think if my stairs will finally invite the inhabitants of Baucis to descend to earth, or if the stalls that hang between the roofs are not, in reality, the forgotten remains of one of the infinite Maurilia. Create by dreaming that I am part of those imagined lives, feeling that in some way I inhabit them in myself and that I give them shape, my own. That is, without a doubt, one of the central focuses of my work.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "173f0d57-ae0b-4759-917a-0f1bc9de64c8",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F2416f001-394f-4221-a8b8-09032d814580?alt=media&token=989f5e71-195b-4591-a3ca-accd2523c037",
+			"fileName": "13_CastillosGabrielAlba.jpg",
+			"fileSize": 1212650,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Castillos",
+				"description": "<div><b>Castillos</b></div><div>2022</div><div>Grabado. Técnica monotipo (copia única). Tinta offset sobre papel. 35 x 50 cm</div><div>La obra es parte de una serie de grabados monotipos llamada “Ciudades imaginadas” basados en el libro Las ciudades invisibles de Italo Calvino. “Castillos” hace referencia a la ciudad azul que puede verse dentro de las esferas de vidrio que se encuentran en los aposentos del palacio de metal de Fedora. Es la ciudad que puedo ver e imaginar como habitante de ella cada vez que visitó el palacio y miro dentro de esa esfera de cristal, para encontrar esa ciudad que deseo.&nbsp;</div><div><br></div><div><b>Alba</b></div><div>Argentina</div><div>https://gabrielalba.empretienda.com.ar/&nbsp;</div><div>https://www.instagram.com/gabito_alba/&nbsp;</div><div><br></div><div>The work is part of a series of monotype engravings called “Imagined Cities” based on the book “The Invisible Cities” by Italo Calvino. “Castles” refers to the blue city that can be seen inside the glass spheres found in the chambers of the metal palace of Fedora. It is the city that I can see and imagine as an inhabitant of it every time I visited the palace and look inside that crystal sphere, to find that city that I desire.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 69,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "08a91234-bb75-45d2-a9b1-fc749c98e560",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fe4933388-2107-4d17-a5b0-d7dc37e8c61c?alt=media&token=1a1687df-e52e-490f-b60c-fc61df35d5b1",
+			"fileName": "14_FedoraColleen.jpg",
+			"fileSize": 2462537,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Fedora",
+				"description": "<div><b>Fedora</b></div><div>2021</div><div>Lápiz sobre papel. 50 x 50 cm</div><div>La ciudad de Fedora, tal como la describe Italo Calvino en su libro Las ciudades invisibles, es una ciudad del deseo, que alberga un museo con orbes de cristal, cada uno de las cuales contiene una Fedora imaginaria correspondiente al deseo de cada habitante de crear una ciudad perfecta. Esta es mi versión de cómo vería una perfecta Fedora dentro de la bola de cristal: una ciudad perfecta, limpia y ordenada con una arquitectura gigante y limpia.</div><div><br></div><div><b>Colleen Corradi</b></div><div>Italy</div><div>https://www.cittainvisibili.com/&nbsp;</div><div><br></div><div>The city of Fedora as described by Italo Calvino in his book The Invisible Cities, is a city of desire, which houses a museum&nbsp; with crystal orbs each of which contains an imaginary Fedora corresponding to each inhabitant's desire to create a perfect city. This is my version of how I would see a perfect fedora inside the glass ball: a perfect, clean and tidy city with giant clean cut architecture.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "750fac45-1f19-4bdb-912b-7b7bc47265c2",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Ff932611b-4c9d-4153-a0c0-8c303d3d885d?alt=media&token=c1d29e96-f794-40bd-a59f-983eee3351ac",
+			"fileName": "14a_ZirmaColleen.jpg",
+			"fileSize": 1378792,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Zirma",
+				"description": "<div><b>Zirma</b></div><div>2020</div><div>Acuarela. 55 x 75 cm</div><div>Zirma es una ciudad increíblemente caótica donde un viajero ve una cosa, otro la ve de otra manera. Al regresar de Zirma, Marco Polo afirma haber visto muchos dirigibles volar por el aire, mientras que otro viajero jura haber visto sólo uno. En esencia, esta ciudad refleja la exageración que implica el relato de un narrador sobre un lugar, editando detalles para darle vida a las historias.&nbsp;</div><div><br></div><div><b>Colleen Corradi</b></div><div>Italy</div><div>https://www.cittainvisibili.com/&nbsp;</div><div><br></div><div>Zirma is a city which is incredibly chaotic where one traveler sees one thing, another&nbsp; sees it differently. Upon returning from Zirma, Marco Polo states to have seen many dirigibles fly in the air, whereas another traveler swears to have seen only one. In essence, this city reflects the exaggeration that goes into a storyteller's account of a place, editing details to spice stories up.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 85,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "fe8440ab-d3b5-4cfd-bfd7-45638885c97b",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fd74d141c-725b-4b0e-a0c0-ecd36cd53653?alt=media&token=8d31758c-95db-49bd-969f-744d14e38cef",
+			"fileName": "15_Zora7JoseManuelFeito.jpg",
+			"fileSize": 205357,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Las ciudades invisibles - Zora # 7",
+				"description": "<div><b>Las ciudades invisibles - Zora # 7</b></div><div>2015</div><div>Fotografía. 45 x 30 cm</div><div>Fotografía perteneciente a la serie \"Las ciudades invisibles - Zora, la ciudad que no olvida\" basada en el libro \"Las ciudades invisibles\" de Italo Calvino.</div><div><br></div><div><b>José M. Feito</b></div><div>España</div><div>www.josemfeito.com&nbsp;</div><div><br></div><div>Photography belonging to the series \"The invisible cities - Zora, the city that does not forget\" based on the book \"The invisible cities\" by Italo Calvino.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 66,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "337b26c7-bf8e-449f-93b9-45bc4625ca29",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F79dcaa19-ad32-4f40-9353-cf9c29c0423d?alt=media&token=67b87d70-491c-4bad-9950-52daed57b3a3",
+			"fileName": "16_CloeMJGarciadelMoral.jpg",
+			"fileSize": 1039225,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Cloe",
+				"description": "<div><b>Cloe</b></div><div>2018</div><div>Óleo sobre lienzo y pan de oro. 130 x 46 cm</div><div>Una vibración lujuriosa mueve continuamente a Cloe, la más casta de las ciudades. Si hombres y mujeres empezaran a vivir sus efímeros sueños, cada fantasma se convertiría en una persona con quien comenzar una historia de persecuciones, de simulaciones, de malentendidos, de choques, de opresiones, y el carrusel de las fantasías se detendría. (Italo Calvino).</div><div><br></div><div><b>María José García del Moral</b></div><div>España</div><div>https://mariajosegarciadelmoral.com/&nbsp;</div><div><br></div><div>A lustful vibration continually moves Chloe, the most chaste of cities. If men and women began to live their ephemeral dreams, each ghost would become a person with whom to begin a story of persecutions, simulations, misunderstandings, clashes, oppressions, and the carousel of fantasies would stop. (Italo Calvino).</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 36,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "1999cb6b-2d19-439b-8b50-ba3d406cffbf",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F05595aa3-adf3-488c-add4-5751e13d3a62?alt=media&token=309ce335-8dbb-408b-89d0-81c07cbfe49f",
+			"fileName": "16a_ValdradaMJGarciadelMoral.jpg",
+			"fileSize": 1294854,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Valdrada I",
+				"description": "<div><b>Valdrada I</b></div><div>2018</div><div>Óleo sobre lienzo y pan de oro. 27 x 46 cm</div><div>El espejo ya acrecienta el valor de las cosas, ya lo niega. No todo lo que parece valer fuera del espejo resiste cuando se refleja. Las dos ciudades gemelas no son iguales, porque nada de lo que existe o sucede en Valdrada es simétrico: a cada rostro y gesto responden desde el espejo un rostro o gesto invertidos punto por punto. (Italo Calvino).</div><div><br></div><div><b>María José García del Moral</b></div><div>España</div><div>https://mariajosegarciadelmoral.com/&nbsp;</div><div><br></div><div>The mirror already increases the value of things, it already denies it. Not everything that seems valuable outside the mirror holds up when it is reflected. The two twin cities are not equal, because nothing that exists or happens in Valdrada is symmetrical: each face and gesture responds from the mirror with a face or gesture inverted point by point. (Italo Calvino).</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 57,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "d1791cfd-1d22-4897-adc1-a81b30ac5f5d",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F9ffd0807-238b-46bb-a962-8974ab937a4d?alt=media&token=381f185f-8261-4943-a5b6-a01faa6ae7df",
+			"fileName": "17_In the EdgeAntonioHidalgo.jpg",
+			"fileSize": 1672668,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "In the edge",
+				"description": "<div><b>In the edge</b></div><div>2018</div><div>Collage digital. 90 x 60 cm</div><div>En la ciudad abundan las palomas. Van y vienen distraídas... Parece que te miran un momento y siguen su camino. En la ciudad no hay equilibrio entre lo que quieres hacer,&nbsp; lo que puedes hacer y el poco tiempo que te queda para hacerlo. Ese frenesí de la ciudad no deja tiempo para pensar. En esa ciudad donde las palomas te miran y siguen su camino…</div><div><br></div><div><b>Inercies</b></div><div>España</div><div>https://selenics.blogspot.com/&nbsp;</div><div><br></div><div>Pigeons abound in the city. They come and go distracted... It seems like they look at you for a moment and continue on their way. In the city there is no balance between what you want to do, what you can do and the little time you have left to do it. That frenzy in the city leaves no time to think. In that city where the pigeons look at you and continue on their way...</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 66,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "f30c06f3-0ee7-417f-b1ed-c697df7a4f86",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F93db7c40-d769-410c-9606-5fe25b874579?alt=media&token=2739ae17-545f-4d9b-8b1e-6d247dcf5a30",
+			"fileName": "18_DiomiraMariaMerin.jpeg",
+			"fileSize": 172727,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Diomira",
+				"description": "<div><b>Diomira</b></div><div>2011</div><div>Aguafuerte en dos planchas de cobre. Iluminado a mano. 34 x 29 cm</div><div><br></div><div>Inspirada en Las ciudades invisibles. Diomira&nbsp; \"ciudad, con setenta cúpulas de plata, estatuas de bronce de todos los dioses... un gallo de oro que canta todas las mañanas en lo alto de una torre\"</div><div><br></div><div><b>Merin</b></div><div>España</div><div>https://www.instagram.com/mamerin2002&nbsp;</div><div><br></div><div>Inspired by The invisible cities. Diomira \"city, with seventy silver domes, bronze statues of all the gods... a golden rooster that crows every morning at the top of a tower\".</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 87,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "05e9dc28-f7c7-4f6f-b10c-e2487b111f93",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F509f21e7-1b0e-4cd3-8b27-bbe564e14cf4?alt=media&token=fc290e32-e3b9-4eae-86ce-97847e7191ef",
+			"fileName": "18a_ZoraMariaMerin.jpeg",
+			"fileSize": 223395,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Zora",
+				"description": "<div><b>Zora</b></div><div>2023</div><div>Aguafuerte en dos planchas de cobre. Dibujo y collage. 34,6 x 29,2 cm</div><div><br></div><div>Inspirada en la obra Las ciudades invisibles.&nbsp; El Hombre que sabe de memoria cómo es Zora, en la noche... El reloj de cobre, el toldo de rayas del peluquero, la fuente de nueve caños, la torre de cristal del astrónomo...</div><div><br></div><div><b>Merin</b></div><div>España</div><div>https://www.instagram.com/mamerin2002&nbsp;</div><div><br></div><div>Inspired by The Invisible Cities. The Man who knows by heart what Zora is like at night... The copper clock, the barber's striped awning, the nine-spout fountain, the astronomer's glass tower.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 88,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "ffcc9034-02ac-42a7-971d-3da9d89576b1",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F2c263155-ef47-4c41-8b4c-14ced714432a?alt=media&token=40056f35-f7fa-4073-ac20-3822a9bbf8a3",
+			"fileName": "19_OctaviaMariaMonsonet.jpg",
+			"fileSize": 332085,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Octavia",
+				"description": "<div><b>Octavia</b></div><div>2012</div><div>Tinta china en plumilla y coloreado digital. 23 x 32,5 cm</div><div>Ilustración inspirada en la ciudad de \"Octavia es la ciudad telaraña, suspendida en el abismo y con la particularidad que las casas cuelgan en forma de bolsa. Sería inquietante vivir allí pero a la vez tiene algo de misterio que te atrapa.\" Esta&nbsp; ilustración fue realizada al inicio de su carrera, cuando estudiaba ilustración en la Escuela Illa de Sabadell. La artista reconoce que descubrir la obra de Calvino le hizo volar la imaginación.</div><div><br></div><div><b>Maria Monsonet</b></div><div>España</div><div>www.mariamonsonet.com</div><div><br></div><div>Illustration inspired by the city of \"Octavia is the spiderweb city, suspended in the abyss and with the peculiarity that houses hang in the shape of a bag. It would be disturbing to live there but at the same time it has something of mystery that catches you.\" This illustration was made at the beginning of her career, when she was studying.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 70,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "7a0d8402-a135-4b48-989a-c169c53bff07",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fefe4366b-44ed-4f96-a554-59a554f75629?alt=media&token=2d541613-98f5-4937-83be-4c7551dbf977",
+			"fileName": "19a_ZenobiaMariaMonsonet.jpg",
+			"fileSize": 693756,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Zenobia",
+				"description": "<div><b>Zenobia</b></div><div>2012</div><div>Tinta china en plumilla y coloreado digital. 32,5 x 23 cm</div><div>Ilustración inspirada en la ciudad de Zenobia, del libro Las ciudades Invisibles (1972). \"Zenobia es la ciudad de las alturas, hecha de bambú y conectada a través de escaleras. Qué divertido vivir allí. Pero, ¿y si pierdes el equilibrio?\" Esta&nbsp; ilustración fue realizada al inicio de su carrera, cuando estudiaba ilustración en la Escuela Illa de Sabadell. La artista reconoce que descubrir la obra de Calvino le hizo volar la imaginación. Además, a lo largo de su carrera mucha gente se ha interesado en estas ilustraciones por estar basadas en Las ciudades invisibles, un libro universal.&nbsp;</div><div><br></div><div><b>Maria Monsonet</b></div><div>España</div><div>www.mariamonsonet.com</div><div><br></div><div>Illustration inspired by the city of Zenobia, from the book The Invisible Cities (1972). \"Zenobia is the city of heights, made of bamboo and connected by stairs. How fun to live there. But what if you lose your balance?\" This illustration was made at the beginning of his career, when he was studying illustration at the Illa School in Sabadell. The artist acknowledges that discovering Calvino's work made her imagination fly. Furthermore, throughout her career many people have been interested in these illustrations because they are based on The Invisible Cities, a universal book.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "758d9fb8-0fe7-4d10-89c2-58a2dfbf1bb7",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F88fe6fc3-776a-4dd7-b3cc-95a8d80e962d?alt=media&token=adf1b8f2-f489-4759-b1fc-77d7d28e92e1",
+			"fileName": "20_Ciudades invisiblesMarthaOrtiz.jpg",
+			"fileSize": 2128417,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Ciudades Invisibles",
+				"description": "<div><b>Ciudades Invisibles</b></div><div>2023</div><div>Acrílico sobre tela. 80 x 60 cm</div><div>La obra está realizada en acrílico sobre tela, utilizando un conjunto de figuras geométricas de diferentes colores que simbolizan las diferentes sociedades, simulan el mundo donde vivimos, agrupaciones donde nos desenvolvemos y su problemática, pero que son invisibles. Está basada en la obra Las Ciudades Invisibles.</div><div><br></div><div><b>Martha Ortiz Sotres</b></div><div>México</div><div>https://instagram.com/marthaortizsotres&nbsp;</div><div><br></div><div>This work is made in acrylic paint on fabric, using a set of geometric figures of different colors that symbolize different societies, simulate the world where we live, groups where we operate and their problems, but which are invisible. It is based on the work The Invisible Cities.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 74,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "2d94f260-9e3f-49b0-927e-525a01141af7",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F8b8a581b-5157-40c1-b07e-49e6787e05ab?alt=media&token=ef499c4d-7bb8-4a14-b798-f2c2cbebf7bf",
+			"fileName": "21_Con-jugandoIAngeles Parrilla.jpg",
+			"fileSize": 2889638,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Con-jugando. I",
+				"description": "<div><b>Con-jugando. I</b></div><div>2023</div><div>Técnica mixta. 30 x 21 cm</div><div><br></div><div>Obra inspirada en el libro de Las ciudades invisibles, concretamente el relato las ciudades y la memoria I. Diomira, Cúpulas de plata , Estatua de bronce ,Teatro de cristal, un Gallo de oro.... Culminando con la añoranza. Obra original para esta exposición.</div><div><br></div><div><b>Ángeles Parrilla</b></div><div>España</div><div>https://instagram.com/mariangeles.parrilla.5</div><div><br></div><div>Work inspired by the book of The invisible cities, specifically the story cities and memory I. Diomira, Silver Domes, Bronze Statue, Crystal Theatre, a Golden Rooster.... Culminating with longing. Original work for this exhibition.</div><div><br></div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "9a84371f-e5f7-401a-b938-f969160139d9",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F311c389f-694f-4e16-ae0d-8708e9b31a8c?alt=media&token=06f1d263-300e-4d77-8a8e-864aeb0fd15e",
+			"fileName": "21a_Con-jugandoIIAngelesParrilla.jpg",
+			"fileSize": 3022374,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Con-jugando. II",
+				"description": "<div><b>Con-jugando. II</b></div><div>2023</div><div>Técnica mixta. 32,5 x 23 cm</div><div>Obra inspirada en la obra de Italo Calvino&nbsp; Las ciudades Invisibles concretamente el relato Las ciudades y el deseo 4. Fedora. Palacio de las Esferas Azules. Reflejo de lo que pudo ser. La búsqueda. Obra original para esta exposición.</div><div><br></div><div><b>Ángeles Parrilla</b></div><div>España</div><div>https://instagram.com/mariangeles.parrilla.5</div><div><br></div><div>Work inspired by Italo Calvino's work The Invisible Cities, specifically the story Cities and Desire 4. Fedora. Palace of the Blue Spheres. Reflection of what could be. The search. Original work for this exhibition.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 71,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "d8dd6c8d-843f-4ff7-94e2-69aff46f16c7",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F7098f8b3-9715-47ed-a501-a17803ff02b1?alt=media&token=e074b03c-a14a-454d-90fd-52f8a44fed46",
+			"fileName": "22_EspejismodelarealidadmjRoldan.jpg",
+			"fileSize": 3086186,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Espejismo de la realidad...",
+				"description": "<div><b>¿Espejismo de la realidad o realidad de un espejismo?</b></div><div>2021</div><div>Óleo sobre lienzo. 100 x 81 cm</div><div>Visualización o inspiración tras la lectura de Las Ciudades invisibles de Calvino.</div><div><br></div><div><b>Rolhi</b></div><div>España</div><div>www.rolhi.com</div><div><br></div><div>Visualization or inspiration after reading The Invisible Cities by Calvino.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 79,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "45ac83a1-7c3b-4a8f-b13d-394855eb4645",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Ff65c4873-ad63-4ec7-bcb9-68a238e2482c?alt=media&token=c33076ee-b77e-43dc-a3d4-afe9df3c4410",
+			"fileName": "23_SiunanochedeinviernounviajeroRafaelMir.jpg",
+			"fileSize": 2357859,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Si una noche de invierno un viajero",
+				"description": "<div><b>Si una noche de invierno un viajero…</b></div><div>2023</div><div>Ilustración digital. 1920 x 1357 px</div><div>\"Ya un par de veces he cruzado el café y me he asomado a la puerta que da a la plaza invisible y cada vez el muro de oscuridad me ha rechazado... ¿Salir para ir a dónde? La ciudad allá fuera no tiene aún nombre, no sabemos si se quedará al margen de la novela o si la contendrá por entero en su negro de tinta.\" - Si una noche de invierno un viajero.</div><div><br></div><div><b>Rafael Mir</b></div><div>España</div><div>instagram.com/rafamir70</div><div><br></div><div>\"A couple of times I have already crossed the café and looked at the door that leads to the invisible square and each time the wall of darkness has rejected me... Leave to go where? The city out there still does not have a name, we do not know if it will remain on the margins of the novel or if it will contain it entirely in its black ink.\" - If one winter night a traveler.</div><div><br></div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 70,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "b80cbfe6-d9f9-442d-94f6-15df3edfa60e",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F73e95a15-0082-4d17-a067-d342fe6f76e0?alt=media&token=09fbae67-2c7c-4e5a-bb9b-239c9a5f333e",
+			"fileName": "24_AmorylecturaUlises.jpg",
+			"fileSize": 779600,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Amor y Lectura",
+				"description": "<div><b>Amor y Lectura</b></div><div>2015</div><div>Arte digital. 60 x 43 cm</div><div>La obra está inspirada en el libro Si una noche de invierno un viajero de Italo Calvino, en el cual hace una simetría entre el amor de una pareja y el acto de leer. Como cita el autor, “(…) un ser humano cree en ciertos momentos estar leyendo en otro ser humano”.</div><div><br></div><div><b>Ulises Ortiz</b></div><div>México</div><div>www.plasck.blogspot.mx</div><div><br></div><div>The work is inspired by the book If on a winter's night a traveler by Italo Calvino, in which he equates the love of a couple and the act of reading. As the author quotes, \"(...) a human being believes at certain moments that he is reading another human being.\"</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 71,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "c682978d-bb0f-462e-9924-9522a0bdc1ac",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F74560976-b4aa-42c7-8cc4-c83b2d6580e6?alt=media&token=f090caaa-ff37-4885-b370-d7eb7e67d262",
+			"fileName": "25_SeispropuestasparaelproximomilenioMarceloMartin.jpg",
+			"fileSize": 1605385,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Seis propuestas para el próximo milenio",
+				"description": "<div><b>Seis propuestas para el próximo milenio</b></div><div>2023</div><div>Ensamblaje. 45 x 120 cm</div><div>En junio de 1984 Calvino fue invitado a las “Charles Eliot Norton Poetry Lectures” en la Universidad de Harvard, durante el curso 1985-1986. El autor preparó un ciclo de conferencias eligiendo como tema los valores literarios que él más apreciaba aunque nunca llegó a impartirlas. Este es un homenaje a ese ciclo.</div><div><br></div><div><b>Marcelo Martín</b></div><div>Argentina/España</div><div>https://www.facebook.com/marcelodelira.martinarte</div><div><br></div><div>In June 1984 Calvino was invited to the “Charles Eliot Norton Poetry Lectures” at Harvard University, during the 1985-1986 academic year. The author prepared a series of lectures choosing as topics the literary values that he most appreciated, although he never gave them. This is a tribute to that cycle.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 44,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "e0b229c1-f6bf-43cf-9905-34019e2bee8d",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fd3a1aa90-9497-4c61-8085-b80a5af1ea12?alt=media&token=d933ed38-b544-4183-b96c-b9f898e61b0f",
+			"fileName": "26_OportunidadesRitaSanchez.JPG",
+			"fileSize": 719250,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Oportunidades",
+				"description": "<div><b>Oportunidades</b></div><div>2021</div><div>Óleo sobre tela. 100 x 100 cm</div><div>Esta obra fue realizada después del COVID, Oportunidades nace tras leer Seis Propuestas para el Próximo Milenio. Italo nos habla del milenio que está por terminar. La obra habla del nacimiento y expansión después del Caos.</div><div><br></div><div><b>Rita Sánchez Domínguez</b></div><div>España/México</div><div>https://www.instagram.com/rita.obraplastica/&nbsp;</div><div><br></div><div>This work was carried out after COVID, Oportunidades was born after reading Six Memos for the Next Millennium. Italo tells us about the millennium that is about to end. The work speaks of the birth and expansion after Chaos.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 99,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "962713bf-083e-4b68-9000-bbdcdaf6ee6a",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F43869296-4584-40f2-aad3-8de3572e3641?alt=media&token=a9d61121-0912-4a69-a87c-3dc26a3a8733",
+			"fileName": "26a_PosibilidadesRitaSanchez.JPG",
+			"fileSize": 841173,
+			"group": 2,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Posibilidades",
+				"description": "<div><b>Posibilidades</b></div><div>2021</div><div>Óleo sobre tela. 100 x 100 cm</div><div>Esta obra fue realizada durante la pandemia de COVID, saliendo ya de la crisis. Su base acrílica con textura llena de movimiento, pero faltaba salir del caos. Pensar que la vida nos deja llenos de oportunidades que antes no podíamos ver. Así salen las esferas que solo al fluir nos ayudan a reiniciar.</div><div><br></div><div><b>Rita Sánchez Domínguez</b></div><div>México/España</div><div>https://www.instagram.com/rita.obraplastica/&nbsp;</div><div><br></div><div>This work was carried out during the COVID pandemic, already emerging from the crisis. Its textured acrylic base was full of movement, but it needed to get out of the chaos. To think that life leaves us full of opportunities that we could not see before. This is how the spheres come out and only by flowing they help us restart.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 99,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "dde43268-366d-4035-8a01-33fc7d57466d",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F2f3eaa42-5276-49d2-bab0-15522e83a77e?alt=media&token=6308f065-ea85-402e-af80-6d0cdae1e56c",
+			"fileName": "6_Lacontradicciondelyo.jpg",
+			"fileSize": 207019,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "La contradicción del yo",
+				"description": "<div><b>La contradicción del yo</b></div><div>2023</div><div>Imagen digital montada con Photoshop. 28 x 48,5 cm</div><div>Desde el punto de vista simbólico, la obra trata de expresar en una imagen el mudo creativo, imaginario e irónico que Italo Calvino recoge en una de sus obras: El Vizconde Demediado. Este libro habla de la complementariedad de los opuestos, el bien y el mal, la condición humana ante el poder, y la tibia o nula respuesta de un pueblo que se aparta ante la injusticia. De ahí que en esta obra se represente una persona, partida por la mitad, simbolizando, el desnudo, el ser bondadoso, ingenuo y bobo; y la oscuridad, los diferentes \"yo\": el tiránico, el egoísta y mediocre que todos y todas llevamos dentro. A cada lado de la imagen central se representan las puertas de la vida: la dualidad del ser con sus dos caras, y el hábitat que lo rodea, que cambia y fluye del fuego y la pasión a la serenidad y no sentir.&nbsp;</div><div><br></div><div><b>Pepa R.</b></div><div>España</div><div>https://www.instagram.com/prfmontenegro/&nbsp;</div><div><br></div><div>From a symbolic point of view, the work tries to express in an image the creative, imaginary and ironic mute that Italo Calvino captures in one of his works: The demediated viscount. This book talks about the complementarity of opposites. Hence, in this work a person is represented, split in half, symbolizing the naked, the kind, naive and stupid being; and the darkness, the different \"me\": the tyrannical, the selfish and mediocre that we all carry inside. On each side of the central image the doors of life are represented: the duality of being with its two faces, and the habitat that surrounds it, which changes and flows from fire and passion to serenity and non-feeling.&nbsp;</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 57,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "eb9aaf7e-dfe0-4c7b-a387-574bca861f21",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F5bd49626-d997-49d8-b5cb-f5592e80dd99?alt=media&token=1b3ee836-9f92-4bda-81c5-5b6ecc9e757a",
+			"fileName": "_1_Pili.jpg",
+			"fileSize": 260715,
+			"group": 3,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "1st Prize",
+				"description": "<div><span style=\"font-size: 17.723px;\"><b>The whims of the pentip</b></span></div><div><span style=\"font-size: 17.723px;\">2023</span></div><div><span style=\"font-size: 17.723px;\">Digital illustration with Ipad. 42 cm × 59,4 cm</span></div><div><br></div><div><span style=\"font-size: 17.723px;\">Calvino es un escritor lleno de imaginación y de humor. Sus obras tienen un estilo único combinado con el trasfondo real de su época, lleno de imaginación salvaje. Por lo tanto, quería utilizar un estilo oriental, parecido a un títere de sombras, para expresar la magnífica esencia dramática y artística del escritor y sus obras.</span></div><div><br></div><div><span style=\"font-size: 17.723px;\">Calvino is a writer full of imagination and humor. His works have a very unique style combined with the real background of his era, full of wild imagination. Therefore, I wanted to use an oriental, shadow-puppet-like style to express the gorgeous dramatic and artistic essence of the writer and his works.</span></div><div><br></div><div><span style=\"font-size: 17.723px;\"><b>Pili</b></span></div><div><span style=\"font-size: 17.723px;\">China</span></div><div><br></div>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "41b8a82f-dbb4-4bf4-9b4e-15e4ef8fed28",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F53338a8a-49fb-4523-9ebe-4828c1ed5fee?alt=media&token=136b1bf4-b7c0-4454-ae07-57f967fc263e",
+			"fileName": "_2_a.jpg",
+			"fileSize": 47176,
+			"group": 3,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "2nd prize",
+				"description": "<div><span style=\"font-size: 17.723px;\"><b>Landing and the Maze Guard</b></span></div><div><span style=\"font-size: 17.723px;\">2019-2021</span></div><div><span style=\"font-size: 17.723px;\">Oil on canvas. 40 cm×50 cm</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">\"Al igual que Venecia para Marco Polo en \"La ciudad invisible\", la ciudad más familiar se convierte en el origen de las coordenadas para que todos construyan el mundo. Es cortada en innumerables fragmentos por los ojos del espectador, y cada fragmento se convierte en un prisma, reflejando innumerables vidas humanas que aún no se han realizado. Es la tumba de la posibilidad y la cuna de lo desconocido, donde todo está en el principio.</span></div><div><span style=\"font-size: 17.723px;\">Las ciudades no se construyen con símbolos. La realidad se extiende por los ojos. Si no se mira, no habrá diferencia entre la otra orilla y este lugar. Detente, encuentra las inusuales grietas en el tiempo y el espacio a las que estás acostumbrado, y contempla la existencia que siempre es invisible en la bulliciosa multitud. Insinúan que el mundo es mucho más que eso. El infinito y el misterio se exponen ahora en tu estancia\".</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">Just like Venice to Marco Polo in Invisible Cities, the most familiar city becomes the origin of coordinates for everyone to build the world. It is cut into countless fragments by the viewer's eyes, and each fragment becomes a prism, reflecting countless human lives that have not yet been realized. It is the tomb of possibility and the cradle of the unknown, where everything is in the beginning.</span></div><div><span style=\"font-size: 17.723px;\">Cities are not constructed by symbols. Reality is extended by the eyes. If you don't look at it, there will be no difference between the other shore and this place. Stop, find the unusual cracks in time and space that you are accustomed to, and gaze at the existence that is always invisible in the bustling crowd. They hint that the world is much more than that. Infinity and mystery are now exposed in your stay.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\"><b>Danqing Liu</b></span></div><div><span style=\"font-size: 17.723px;\">China</span></div><div><span style=\"font-size: 17.723px;\">danqing-liu.com</span></div>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 100,
+					"width": 80,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "fa386731-0c96-49d2-b226-e68684ed484c",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F431d4f1a-83e5-424c-8922-1072238e5b7f?alt=media&token=a3638660-da21-4a61-8580-bd36b0bf47ac",
+			"fileName": "_2_b.jpg",
+			"fileSize": 38784,
+			"group": 3,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "2nd prize",
+				"description": "<div><span style=\"font-size: 17.723px;\"><b>Landing and the Maze Guard</b></span></div><div><span style=\"font-size: 17.723px;\">2019-2021</span></div><div><span style=\"font-size: 17.723px;\">Oil on canvas. 40 cm×50 cm</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">\"Al igual que Venecia para Marco Polo en \"La ciudad invisible\", la ciudad más familiar se convierte en el origen de las coordenadas para que todos construyan el mundo. Es cortada en innumerables fragmentos por los ojos del espectador, y cada fragmento se convierte en un prisma, reflejando innumerables vidas humanas que aún no se han realizado. Es la tumba de la posibilidad y la cuna de lo desconocido, donde todo está en el principio.</span></div><div><span style=\"font-size: 17.723px;\">Las ciudades no se construyen con símbolos. La realidad se extiende por los ojos. Si no se mira, no habrá diferencia entre la otra orilla y este lugar. Detente, encuentra las inusuales grietas en el tiempo y el espacio a las que estás acostumbrado, y contempla la existencia que siempre es invisible en la bulliciosa multitud. Insinúan que el mundo es mucho más que eso. El infinito y el misterio se exponen ahora en tu estancia\".</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">Just like Venice to Marco Polo in Invisible Cities, the most familiar city becomes the origin of coordinates for everyone to build the world. It is cut into countless fragments by the viewer's eyes, and each fragment becomes a prism, reflecting countless human lives that have not yet been realized. It is the tomb of possibility and the cradle of the unknown, where everything is in the beginning.</span></div><div><span style=\"font-size: 17.723px;\">Cities are not constructed by symbols. Reality is extended by the eyes. If you don't look at it, there will be no difference between the other shore and this place. Stop, find the unusual cracks in time and space that you are accustomed to, and gaze at the existence that is always invisible in the bustling crowd. They hint that the world is much more than that. Infinity and mystery are now exposed in your stay.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\"><b>Danqing Liu</b></span></div><div><span style=\"font-size: 17.723px;\">China</span></div><div><span style=\"font-size: 17.723px;\">danqing-liu.com</span></div>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 100,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "0b646689-e0c0-410e-a038-2a55ae43f147",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Ff80096f5-1134-49a0-9fcc-f59724da7b7d?alt=media&token=6970227e-6f91-48f5-8bd4-195b7e0dd7af",
+			"fileName": "_3.jpg",
+			"fileSize": 57719,
+			"group": 3,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "2nd prize",
+				"description": "<div><span style=\"font-size: 17.723px;\"><b>Invisible cities v.s. Visible cities</b></span></div><div><span style=\"font-size: 17.723px;\">2023</span></div><div><span style=\"font-size: 17.723px;\">Digital illustration. 3000px × 4000px.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">Calvino dividió las ciudades invisibles en 11 categorías y las organizó y combinó en diferentes categorías de manera inteligente. De estas categorías seleccioné 11 ciudades que me impresionaron: calles llenas de carteles: la ciudad \"Tamara\" con muchos símbolos; el acantilado entre dos montañas escarpadas: es decir, la ciudad de telaraña luminosa \"Octavia\"; la que se asienta sobre el lago, reflejada en el lago - esa es la ciudad y el ojo \"Valdrada\"; los edificios de las calles que siguen la órbita y la posición de los planetas: esa es la ciudad y el cielo \"Andria\"... Hay más ciudades interesantes que vale la pena explorar en el libro. Espero que mi pintura pueda servir como introducción para los lectores a quienes les guste el libro Ciudades Invisibles y que los lectores puedan encontrar un poco de diversión en mi pintura; Si es posible, también espero que aquellos que aún no han leído este libro tengan el deseo de leerlo después de ver mi pintura.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">Calvino divided invisible cities into 11 categories, and arranged and combined cities in different categories&nbsp; in clever ways. From these categories, I selected 11 cities that impressed me and put them into the painting: streets full of signboards - that is the city \"Tamara\" with many symbols; the ciliff between two steep mountains - that is the light spider web city \"Octavia\"; the one that sits on the lake, reflected in the lake - that is the city and the eye \"Valdrada\"; the street buildings that follow the orbit and position of the planets - that is the city and sky \"Andria\"... There are more interesting cities worth exploring in the book. I hope that my painting can serve as an introduction for readers who like the book Invisible.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\"><b>Artist: Ru Xuejiao</b></span></div><div><span style=\"font-size: 17.723px;\">China</span></div><div><span style=\"font-size: calc(11.0769px + 0.30769vw); letter-spacing: 0.03125em;\">www.instagram.com/luna_sia_1225/</span></div>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 100,
+					"width": 75,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "ab6b2d2b-83e4-4d9b-8795-b399cac3bcc8",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F14966032-4ae6-42d0-819d-ff25e59463aa?alt=media&token=cee4c738-742e-489a-a8ec-83bb786672bf",
+			"fileName": "_4.jpg",
+			"fileSize": 91341,
+			"group": 3,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "2nd prize",
+				"description": "<div><span style=\"font-size: 17.723px;\"><b>Palomar and the Gecko</b></span></div><div><span style=\"font-size: 17.723px;\">2023</span></div><div><span style=\"font-size: 17.723px;\">Acuarela (Watercolor). 21 cm × 29,7 cm</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">Palomar y el Gecko muestra que en una noche de verano, Palomar se sentó frente a la ventana y observó al gecko. Éste yacía fuera del cristal, así que lo que vio fue el vientre del gecko. Mi pintura se divide principalmente en dos partes: exterior e interior. Afuera hay una noche azul de verano mientras una luna creciente cuelga en el cielo nocturno y enredaderas cuelgan del cristal. Los colores fríos son el tema principal en el exterior. En el interior, hay cálidas estanterías y varios jarrones coleccionados por Palomar, y los colores cálidos son el tema principal, contrastando con el exterior. El gecko y Palomar se colocan en el centro de la vista en primer plano, y la \"tranquilidad\" de la noche de verano se utiliza para contrastar el \"movimiento\" de Palomar y el gecko. Palomar estaba tan feliz de ver al gecko que no pudo evitar levantarse, queriendo acercarse para observar.&nbsp;</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">Palomar and the Gecko shows that on a summer night, Palomar sat in front of the window and observed the gecko. The gecko was lying outside the glass, so what he saw was the gecko's belly. My painting is mainly divided into two parts: outside and inside. Outside is a blue summer night while a crescent moon hangs in the night sky, and vines hang down from the glass. Cool colors are the main theme outside. Inside, there are warm bookshelves and various vases collected by Palomar, and warm colors are the main theme,contrast with the outdoors. The gecko and Palomar are placed in the center of the close-up view, and the \"quietness\" of the summer night is used to contrast the \"movement\" of Palomar and the gecko. Palomar was so happy to see the gecko that he couldn't help but stand up, wanting to get closer to observe.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\"><b>Zhao Tuanxi </b>(7 years old)</span></div><div><span style=\"font-size: 17.723px;\">China</span></div>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 70,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "281cd4ce-b76e-4611-a675-31b1505c0c75",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F3a749b45-94a3-4051-a994-845c8bef5434?alt=media&token=7f8b9a2a-be80-4e34-ad33-b861cf2bd0da",
+			"fileName": "_5.jpg",
+			"fileSize": 43518,
+			"group": 3,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "3rd prize",
+				"description": "<div><span style=\"font-size: 17.723px;\"><b>Marcovaldo moments</b></span></div><div><span style=\"font-size: 17.723px;\">2023</span></div><div><span style=\"font-size: 17.723px;\">Digital Illustration with Ipad. 2480px × 3508px</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">\"Siempre hay momentos brillantes en la vida, que pueden mezclarse con algo de vergüenza, pero no todos son malos. Además del trabajo y el sueldo, hay otras cosas que merece la pena esperar, como las setas que acaban de crecer en un rincón de la ciudad, los pájaros que de repente sobrevuelan el cielo y la puesta de sol al salir hoy del trabajo...\"</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">There are always some shining moments in life, which may be mixed with some embarrassment, but they are not all bad. In addition to work and salary, there are other things worth looking forward to, such as the mushrooms that have just grown in a corner of the city, the birds that suddenly fly overhead, and the sunset on the way to get off work today...</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\"><b>Zhentou</b></span></div><div><span style=\"font-size: 17.723px;\">China</span></div>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "80edf91b-efd7-42cb-aff1-4ecce306c56a",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fff4e61a6-8eb2-4bf0-b768-11c77636cfc9?alt=media&token=77e2e5e1-2406-493d-80c8-cd2d0da3c36d",
+			"fileName": "_6a.jpg",
+			"fileSize": 67615,
+			"group": 3,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "3rd prize",
+				"description": "<div><span style=\"font-size: 17.723px;\"><b>The colorful world in my eyes</b></span></div><div><span style=\"font-size: 17.723px;\">2022</span></div><div><span style=\"font-size: 17.723px;\">Line Drawing. A4.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">El mundo ante mis ojos está compuesto de individuos complejos, pero cada individuo está construido por líneas. Es complicado, pero cuando se delinea con líneas, parece caótico y ordenado, al igual que el mundo en cada uno de nuestros ojos tiene su propio orden y características, que es mágico y diverso.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">The world in my eyes is composed of complex individuals, but each individual is constructed by lines. It is complicated, but when outlined with lines, it appears chaotic and orderly, just like the world in each of our eyes has its own order and characteristics, which is magical and diverse.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\"><b>Chen Yihan</b> (10 years old)</span></div><div><span style=\"font-size: 17.723px;\">China</span></div><div><br></div>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 69,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "d63dc3ad-76f6-4b00-bd0e-a7ab4cea8760",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F9678b8e6-e516-4316-a99c-7c1237331155?alt=media&token=c5e415b0-7558-42ba-b4c4-4bc62f38fc3d",
+			"fileName": "_6b.jpg",
+			"fileSize": 100230,
+			"group": 3,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "3rd prize",
+				"description": "<div><span style=\"font-size: 17.723px;\"><b>The colorful world in my eyes</b></span></div><div><span style=\"font-size: 17.723px;\">2022</span></div><div><span style=\"font-size: 17.723px;\">Line Drawing. A4.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">El mundo ante mis ojos está compuesto de individuos complejos, pero cada individuo está construido por líneas. Es complicado, pero cuando se delinea con líneas, parece caótico y ordenado, al igual que el mundo en cada uno de nuestros ojos tiene su propio orden y características, que es mágico y diverso.</span></div><div><span style=\"font-size: 17.723px;\">The world in my eyes is composed of complex individuals, but each individual is constructed by lines. It is complicated, but when outlined with lines, it appears chaotic and orderly, just like the world in each of our eyes has its own order and characteristics, which is magical and diverse.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\"><b>Chen Yihan</b> (10 years old)</span></div><div><span style=\"font-size: 17.723px;\">China</span></div><div><br></div>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 70,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "2be7cc15-139d-4721-b0b6-23ad21752e7e",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F71bdfe05-5fac-4485-8f0c-3d71cd8cb33b?alt=media&token=bc226ee1-de39-47af-adb0-9989c2466234",
+			"fileName": "_7.jpg",
+			"fileSize": 108228,
+			"group": 3,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "3rd prize",
+				"description": "<div><span style=\"font-size: 17.723px;\"><b>End of the Maze</b></span></div><div><span style=\"font-size: 17.723px;\">2023</span></div><div><span style=\"font-size: 17.723px;\">Acrylic + Photoshop. 38,9 cm × 54,6 cm</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">\"La inspiración viene de Si en una noche de invierno, un viajero, de Calvino. El autor en el libro sólo escribió el principio de una historia y la desordenada encuadernación del libro construyó un laberinto para los lectores, haciendo que el héroe y la heroína vagaran y se persiguieran en este laberinto. Y resulta que el final del laberinto son el uno y la otra\".</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">The inspiration comes from Calvino's If on a Winter Night, a Traveler. The author in the book only wrote the beginning of a story and the messy binding of the book built a maze for the readers, making the hero and heroine wander and pursue in this maze. And it turns out that the end of the maze is each other.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\"><b>Wang Hanyue</b></span></div><div><span style=\"font-size: 17.723px;\">China</span></div><div><span style=\"font-size: 17.723px;\">https://www.behance.net/hanyuewang</span></div>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 68,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "cad3f863-4985-4b8a-a61a-b228cbf200c9",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fad582652-1892-499d-b887-6a9a33010889?alt=media&token=a21c8bca-202d-4441-a368-59f0f08d5a5a",
+			"fileName": "_8.png",
+			"fileSize": 581785,
+			"group": 3,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "3rd prize",
+				"description": "<div><span style=\"font-size: 17.723px;\"><b>Il barone rampante</b></span></div><div><span style=\"font-size: 17.723px;\">2023</span></div><div><span style=\"font-size: 17.723px;\">Digital Illustration. 4000px × 4000px</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">\"Esta es una ilustración inspirada en la novela de Calvino El barón de los árboles. Me gustan especialmente las historias absurdas y enérgicas del libro. Lo que más me impresionó fue la escena oculta en un pequeño rincón, que muestra al ladrón ahorcado y el libro del que no podía desprenderse. Por eso, también espero que este cuadro pueda expresar el sentimiento de tristeza en lo absurdo y de calidez en la oscuridad\".</span></div><div><span style=\"font-size: 17.723px;\">This is an illustration inspired by Calvino's novel The Baron in the Trees. I particularly like the absurd and energetic stories in the book. What impressed me the most was the scene hidden in a small corner, showing the hanging thief and the book he couldn't bear to part with. Therefore, I also hope that this painting can express the feeling of sadness in the absurdity and warmth in the darkness.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\"><b>Wang Xiang (snakep)</b></span></div><div><span style=\"font-size: 17.723px;\">Chinahttps://m.weibo.cn/u/1133730570</span></div>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 100,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "9c8a7732-17bb-4a58-9d25-cd7e4e772f86",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F4e6bce5a-10b6-475e-bfc0-5fa9261c6bc2?alt=media&token=6d5149bd-ce1d-439c-b45e-f14a062cfb9b",
+			"fileName": "_9.jpg",
+			"fileSize": 85390,
+			"group": 3,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "3rd prize",
+				"description": "<div><span style=\"font-size: 17.723px;\"><b>Duel of the Viscount</b></span></div><div><span style=\"font-size: 17.723px;\">2023</span></div><div><span style=\"font-size: 17.723px;\">Acuarela. (Watercolor). 32 cm × 24 cm</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">Entre las colecciones de obras de Calvino que he leído, El Vizconde Demediado es mi favorita. Mi ilustración representa la escena de la segunda mitad del libro donde los vizcondes buenos y malos se enfrentan en duelo en el jardín de las monjas. A un lado del fondo, todos los residentes de Terralba; por otro lado, quería darle algo de ritmo a la imagen a través del entrelazamiento de bosques y nubes. En el primer plano de la imagen, las dos figuras del duelo forman una composición triangular, lo que hace que las dos mitades de la postura aparentemente inestable sean estables en el conjunto. También se hace eco del tema de la novela de que sólo el bien y el mal coexisten en la naturaleza humana, lo humano puede ser completo.&nbsp;</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">Among the collections of Calvino's works that I have read, The Cloven Viscount is my favorite. My illustration chose the scene in the second half of the book where the good and evil viscounts duel in the nuns. On one side of the background, all the residents of Terralba. I wanted to bring some rhythm to the picture through the interlacing of woods and clouds. In the foreground of the picture, the two figures in the duel form a triangular composition, which makes the two halves of the seemingly unstable posture stable in the whole. It also echoes the theme of the novel that only good and evil co-exist in human nature, the human can be complete.&nbsp;</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\"><b>Gong Jiezhou</b></span></div><div><span style=\"font-size: 17.723px;\">China</span></div>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 70,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "46051465-aefc-4970-a724-9cb95c7eed08",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F0e236154-949c-439a-954c-70302764cbb3?alt=media&token=1d67e8da-435b-4c3a-baa4-3154f6ed19c9",
+			"fileName": "_10.jpg",
+			"fileSize": 106255,
+			"group": 3,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "3rd prize",
+				"description": "<div><span style=\"font-size: 17.723px;\">Eyes and Balls</span></div><div><span style=\"font-size: 17.723px;\">2023</span></div><div><span style=\"font-size: 17.723px;\">Marker pen on paper A4.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">Elegí Ciudades y Símbolos como punto de partida de mi pintura. El tema es el planeta y el ojo. El círculo pequeño sirve de iris: la mitad del edificio de la izquierda es maciza y la otra mitad está llena de lenguaje; el lado derecho repite \"Mujer abanicándose en la plataforma\"; la pupila central se convierte en \"un dirigible a ras de la ventana\"; nubes con forma de conejo corren por el cielo y la hierba del suelo se convierte en montañas, dándole una sensación de realismo mágico. El anillo planetario rinde homenaje a Calvino con palabras en italiano como Calvino, La città invisibile, etc.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\">I chose Cities and Symbols as the starting point of my painting. The subject is the planet and the eye.</span><span style=\"letter-spacing: 0.03125em;\">The small circle serves as the iris: half of the building on the left is solid, and the other half is filled with language; the right side repeats \"Woman Fanning on the Platform\"; the center pupil turns into \"an airship flush with the window\"; running-rabbit-shaped clouds are sailing in the sky and the grass on the ground turn into mountains, giving it a sense of magic realism. The outer ring is composed of rivers, coal, smoke, forests, crowds of people, herds of wolves sticking their heads out, etc. The planetary ring pays tribute to Calvino with Italian words such as Calvino, La città invisibile, etc. The background is tiled with simple rectangular lines, representing the real world.</span></div><div><span style=\"font-size: 17.723px;\">What I feel from his works are the conflict between unfulfilled fantasy and grounded reality, the distortion and exaggeration of reality in memory, and the differences within the city, as well as the question of whether language is deceptive.</span></div><div><span style=\"font-size: 17.723px;\"><br></span></div><div><span style=\"font-size: 17.723px;\"><b>Chen Mo</b></span></div><div><span style=\"font-size: 17.723px;\">China</span></div>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 72,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "847aecf5-77d4-4a52-ac4c-982caf4f402e",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F48131c4b-faef-4e30-b3d6-1b13e6222c6e?alt=media&token=5fdcff6d-a261-4432-a9d8-8465a7eef63a",
+			"fileName": "logo_blanco.jpg",
+			"fileSize": 11813,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Universo Italo Calvino",
+				"description": "<span style=\"font-size: 17.723px;\">www.universocalvinosevilla.wordpress.com/</span>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 81,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "7e46f7a7-6261-41e5-bed3-01863d732497",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Ffe20a4e0-03ec-4239-830d-37330fbf83d7?alt=media&token=9f677d22-b299-4536-a8d2-c0eb88cd8d20",
+			"fileName": "1.png",
+			"fileSize": 235446,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "1",
+				"description": "<span style=\"font-size: 17.723px;\">This exhibition, organized by CulturaLAB, compiles works of plastic artists who have inspired their work in the literary creations of Italo Calvino, leaving their mark around the world.</span>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 70,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "5e5c262e-685a-49d8-aeb9-d190addd9ed1",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F294eb1d1-7d80-4be5-b122-75a1c4c5d7cc?alt=media&token=63d0bced-bfbc-4940-9461-63e1c9621d56",
+			"fileName": "1.png",
+			"fileSize": 235446,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "1",
+				"description": "<span style=\"font-size: 17.723px;\">This exhibition, organized by CulturaLAB, compiles works of plastic artists who have inspired their work in the literary creations of Italo Calvino, leaving their mark around the world.</span>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 70,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "35226342-2aa4-4a35-aac2-e6a1145c6c9d",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Ff83fd849-4d52-4f31-b302-09a541fb6a72?alt=media&token=189c7644-14ca-415d-97d9-aec975705757",
+			"fileName": "2.png",
+			"fileSize": 289664,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "2",
+				"description": "<div><span style=\"font-size: 17.723px;\">The exhibition is made up of 49 works by 37 artists who have worked with different techniques and tools for their creations.</span></div><div><span style=\"font-size: 17.723px;\">The exhibition has been divided into 10 sections, each dedicated to a book by Italo Calvino, except for the last one, which includes the winning works of the competition from the Yiling Press publishing house (China).</span></div><div><br></div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 70,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "a2f3cd44-4050-4cc8-90ab-ccdb4fabd415",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fdc9991d4-cb9a-4e11-bc60-4b503e3787ca?alt=media&token=417755fb-e138-4645-90e8-29c7bff8f3dc",
+			"fileName": "1_Italo_Calvino.png",
+			"fileSize": 112474,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "1. Italo Calvino",
+				"description": "<div><span style=\"font-size: 17.723px;\">\"Only his works count for a writer, since the biographical aspect is of no interest\"</span></div><div><br></div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "ce7b49ba-23cc-4ff9-929b-f0040957a2eb",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Ffbeb8e8c-ca08-4cf7-b96d-8c1a507a5f16?alt=media&token=d268f789-5cb8-43da-ae69-7ab96123c472",
+			"fileName": "2.png",
+			"fileSize": 123838,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "The Cloven Viscount",
+				"description": "<span style=\"font-size: 17.723px;\">\"Sometimes you think you are incomplete and you are only young\"</span>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "b33f8f63-b4f9-4ae9-9e65-45e74126fb85",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F35ba9d33-f552-436e-a4aa-fb0952b24425?alt=media&token=73f2e0ff-f7d0-4cb4-a737-b9ca0b7be66e",
+			"fileName": "3_el_baron_rampante.png",
+			"fileSize": 159726,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "The Baron in the Trees.",
+				"description": "<span style=\"font-size: 17.723px;\">\"Only by being as ruthlessly himself as he was until his death could he give something to all men\"</span>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "dca0e927-aa38-4fbb-86a7-42f67c61c00f",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F95af4b25-1ab5-4757-92b2-3a8b59e113ca?alt=media&token=b31be5af-74e6-4390-99dd-a9f0c62a67cc",
+			"fileName": "4_marcovaldo.png",
+			"fileSize": 180987,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Marcovaldo",
+				"description": "<span style=\"font-size: 17.723px;\">...if your cart is empty and the others are full, you can only hold out so long: then you're overwhelmed by envy, heartbreak, and you can't stand it.</span>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "68b010e7-89ec-46b0-886e-eb8ad11167f8",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F2833fe34-aca6-4fa0-ac3b-1d7bbd546de0?alt=media&token=386a09c2-5eda-4743-9de9-4718959f3e43",
+			"fileName": "5_elcastillo_de_los_destinos_cruzados.png",
+			"fileSize": 260618,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "The Castle of Crossed Destinies",
+				"description": "<span style=\"font-size: 17.723px;\">Does the written word tame passions? Or submit to the forces of nature? Or does he find a harmony with the inhumanity of the universe? Or does it incubate a violence that is contained but always ready to explode, to destroy?</span>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "0445c30b-81c4-4b4b-8ce0-81cdd90cdb26",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F89018ef0-0c99-49b7-afb8-52de9a46242d?alt=media&token=47d5f575-e32b-446c-ba75-c420caab14f1",
+			"fileName": "6_las_ciudades_invisibles.png",
+			"fileSize": 231371,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "The invisible cities",
+				"description": "<span style=\"font-size: 17.723px;\">Upon arriving at each new city, the traveler finds a past of his that he no longer knew he had: the strangeness of what you are not or do not possess anymore, awaits you as you pass through strange and unpossessed places.</span>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "623981e3-7050-41ca-8a12-51613a8937a9",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Ff59c239c-4954-4d7c-ac0c-2b9369586318?alt=media&token=a7817322-4fa3-4037-9bbf-46416cfd09bb",
+			"fileName": "7_si_una_noche_de_invierno.png",
+			"fileSize": 119459,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "If on a Winter night...",
+				"description": "<span style=\"font-size: 17.723px;\">“We live in a world of stories that begin and never end”</span>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "860b71b4-3c5d-4ef0-bcb0-25a480e42dd9",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F8f660301-9e99-4cd6-a26d-1c40850b4335?alt=media&token=47e7cafd-8442-4dec-9721-ec3b3df9e917",
+			"fileName": "8_seis_propuestas.png",
+			"fileSize": 228044,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Six Memos for the Next Millennium",
+				"description": "<span style=\"font-size: 17.723px;\">Each life is an encyclopedia, a library, a collection of styles where everything can be continually mixed and rearranged in every possible way.</span>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "2bb94d0a-6c28-4d14-8b5b-cc3ac23edc1a",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fb62cdf59-e3e7-4553-b0e0-e209a9e8b6ee?alt=media&token=799d142a-48bc-435c-9d01-c750715184e3",
+			"fileName": "9_la_oveja_negra.png",
+			"fileSize": 203608,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "The black sheep",
+				"description": "<span style=\"font-size: 17.723px;\">In this way, a few years after the appearance of the honest man, there was no longer talk of stealing or being robbed, but of rich and poor. And yet they were all thieves.</span>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "4866964e-a305-4667-b9bb-c8bb4baee7d1",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fec536132-0730-4939-ae74-a08293390644?alt=media&token=aa7fdf88-4283-4b81-8a75-2aa0a27b7517",
+			"fileName": "7a_cossimoevioletta.jpg",
+			"fileSize": 500761,
+			"group": 1,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Cosimo e Violetta",
+				"description": "<div><b>Cosimo e Violetta</b></div><div>2023</div><div>Ilustración digital. 40 x 40 cm</div><div>Como se puede deducir fácilmente del título, la ilustración retrata a Cosimo y Violetta, el protagonista de Il Barone Rampante, decidido a perseguirla entre los árboles.</div><div><br></div><div><b>Andrea Calisi</b></div><div>Italia</div><div>https://www.instagram.com/andreacalisi68/</div><div><br></div><div>As can easily be deduced from the title, the illustration portrays Cosimo and Violetta, the protagonist of Il Barone Rampante, determined to chase her through the trees.</div>",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 100,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "81a2b9c3-4c7a-4db5-be99-186816c51129",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Feb50c68b-2adc-41ae-96a5-9df505687c8f?alt=media&token=c8185efe-d5f4-4059-9711-33ca981e9375",
+			"fileName": "3.png",
+			"fileSize": 241915,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "3",
+				"description": "<span style=\"font-size: 17.723px;\">Yilin Press, the publisher of the Chinese edition of Calvino's works, together with The Institute of Culture of the Italian Embassy in China and Hehe Studio, jointly launched a visual contest of artworks inspired by Calvino to kick off the commemoration of the centenary of Calvino's birth.</span>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 70,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "bf200ce4-8063-4e03-9e3d-5761490ed1f8",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F37bad594-39b6-43ca-bf4b-f9c26fe2a097?alt=media&token=e4bed59b-7d08-4b77-b301-68363862ed2e",
+			"fileName": "4.png",
+			"fileSize": 269770,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "4",
+				"description": "<div><span style=\"font-size: 17.723px;\">The competition uses visual content creation in forms of paintings and short videos to continue communicating the unimaginable stories constructed by Calvino with his rich techniques and unique angles.</span></div><div><span style=\"font-size: 17.723px;\">In the last area of the exhibition, we have the winners arts works in the first, second and third position.</span></div>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 70,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "b9773aab-aa41-4875-88a7-a7ab55c1ab0e",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F55c2c5e8-1774-49c5-8741-e28ba84ce4f8?alt=media&token=71ee40f9-a670-41b9-a164-93ffbc4aef1a",
+			"fileName": "CulturaLab_logo_blanco_peq.jpg",
+			"fileSize": 38013,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "CulturaLAB",
+				"description": "www.culturalab.es",
+				"realDimensions": {
+					"showDimensions": false,
+					"height": 75,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "ad891011-a433-4a70-802a-f158ae7bcbfb",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Ff12df4f4-6ecb-46d9-950d-cac5e294bfbf?alt=media&token=930b2621-e1e3-48ab-8afc-01a29fa4810a",
+			"fileName": "12.png",
+			"fileSize": 194387,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "12",
+				"description": null,
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "60d11042-2cd7-4b49-b72c-6cd47a44bb7e",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fdf86dd52-3181-44c5-8c4f-dba37ece7c81?alt=media&token=da550755-0e34-45aa-b5a3-d2c2ae3d592d",
+			"fileName": "11.png",
+			"fileSize": 241324,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "11",
+				"description": null,
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "6129c2c2-710d-4336-b173-3e91096926cf",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F4cf69d6b-8c82-4f28-86db-9169c519b42c?alt=media&token=3bc5ae9b-9ae3-494f-bf20-30fd7a709231",
+			"fileName": "Universo Italo Calvino más allá de las letras.png",
+			"fileSize": 143086,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Gracias",
+				"description": "<span style=\"font-size: 16.3307px;\">Thanks to the artists who have participated, to the collaborators for their support and to all those who encouraged us to make this dream come true.</span>",
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 70,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "e25f9e37-6034-4c68-8228-30f09c0988e7",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Ffc6db233-65c2-4ca4-bb62-525b9e126f32?alt=media&token=ba5bd80d-545d-4dfa-994a-66baf6c26ff9",
+			"fileName": "yilin_press1.png",
+			"fileSize": 47251,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "yilin_press1",
+				"description": null,
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 95,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "237cb156-fef0-48f0-8c08-df070125460c",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fe39c9252-0cba-43c2-bf39-9571343c2d9f?alt=media&token=19d0c3d8-8e12-4183-b1c1-8c70d995d959",
+			"fileName": "10.png",
+			"fileSize": 202849,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "10",
+				"description": null,
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "ac074ea7-65fc-48d2-bb53-6b23906ab77e",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2Fd937222a-42f7-4c01-b190-2837820b9027?alt=media&token=1b3006fa-6f8b-4bcd-a1b7-c19924e47801",
+			"fileName": "cartel_inicio.jpg",
+			"fileSize": 271287,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "cartel_inicio",
+				"description": null,
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 100,
+					"width": 70,
+					"depth": 0
+				}
+			}
+		},
+		{
+			"id": "f07c8d42-397f-40c6-96e1-ed95b03d731a",
+			"type": "image",
+			"url": "https://firebasestorage.googleapis.com/v0/b/peopleartfty.appspot.com/o/files%2FaK7YYx2jxZVy6ob2lUYf%2F849e65b0-b3e8-4f31-b146-740e3ca0cd63?alt=media&token=f4ee01d9-891a-4f02-b465-bbfb23948fef",
+			"fileName": "Yilin Logo B&W.jpg",
+			"fileSize": 40467,
+			"group": 4,
+			"disabled": false,
+			"info": {
+				"hidden": false,
+				"name": "Yilin Logo B&W",
+				"description": null,
+				"realDimensions": {
+					"showDimensions": true,
+					"height": 33,
+					"width": 100,
+					"depth": 0
+				}
+			}
+		}
+	],
+	"options": {
+		"disableHumanRef": false,
+		"hideLogo": false
+	}
+}

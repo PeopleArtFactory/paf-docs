@@ -1,0 +1,17 @@
+<script>
+    
+import '../../node_modules/paf-viewer/dist/style.css';
+import { GalleryScene} from 'paf-viewer'
+
+
+import galleryDataFile from '../assets/data.json' 
+
+
+if (galleryDataFile) {
+	galleryDataFile.allResources.map((resource) => {
+		resource.url = 'universoitalocalvino/' + resource.fileName;
+	})
+}
+
+GalleryScene.instance.createRoom(galleryDataFile);
+</script>
