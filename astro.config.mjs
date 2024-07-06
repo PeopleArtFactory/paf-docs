@@ -5,6 +5,11 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://docs.peopleartfactory.com',
+  vite: {
+    ssr: {
+      noExternal: ['paf-viewer'],
+    }
+  },
   integrations: [
     starlight({
       title: "Docs with Tailwind",
