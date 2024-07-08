@@ -3,19 +3,13 @@ import '../../node_modules/paf-viewer/dist/style.css';
 ---
 
 <script>
-    
-
-import { GalleryScene} from 'paf-viewer'
-
-
+import {GalleryScene} from 'paf-viewer'
 import galleryDataFile from '../assets/data.json' 
-
-
 if (galleryDataFile) {
 	galleryDataFile.allResources.map((resource) => {
-		resource.url = 'universoitalocalvino/' + resource.fileName;
+		resource.url = 'https://docs.peopleartfactory.com/universoitalocalvino/' + resource.fileName;
 	})
 }
 
-GalleryScene.instance.createRoom(galleryDataFile);
+GalleryScene.instance.load(galleryDataFile);
 </script>
